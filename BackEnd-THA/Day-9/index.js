@@ -16,6 +16,10 @@ app.get("/", (req, res) => {
     .redirect(301, "/admin");
 });
 
+app.get("/admin", (req, res) => {
+  res.send("Admin This Side");
+});
+
 app.get("/file/download", (req, res) => {
   res.download(path.join(__dirname, "public/file.txt"), "downloaded.txt");
 });
