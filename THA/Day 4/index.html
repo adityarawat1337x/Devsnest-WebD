@@ -1,0 +1,38 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" href="styles.css">
+    
+    <title>Document</title>
+</head>
+<body>
+    <div class="cont">
+        <div class="outer">
+            <div class="cent"></div>
+            <div class="sec"></div>
+            <div class="min"></div>
+            <div id="hour" class="hour"></div>
+        </div>
+        <div class="band"></div>
+    </div>
+    <script>
+        let [x,y,z] = [0,0,0];
+        setInterval(()=>{
+        document.querySelector(".sec").style.transform  = 'rotate('+x+'deg)'; 
+        x+=1;
+        },1000)
+        setInterval(()=>{
+        document.querySelector(".min").style.transform  = 'rotate('+y+'deg)'; 
+        y+=1;
+        },60000)
+        setInterval(()=>{
+        document.querySelector(".hour").style.transform  = 'rotate('+z+'deg)'; 
+        z+=1;
+        },360000)
+        
+   </script>
+</body>
+</html>
