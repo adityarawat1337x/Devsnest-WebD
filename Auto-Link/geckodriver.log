@@ -1,0 +1,1498 @@
+1622659179165	geckodriver	INFO	Listening on 127.0.0.1:50347
+Invalid port. Exiting...
+Invalid port. Exiting...
+Invalid port. Exiting...
+Invalid port. Exiting...
+1622660876412	geckodriver	INFO	Listening on 127.0.0.1:42133
+1622660877460	mozrunner::runner	INFO	Running command: "/usr/bin/firefox-developer-edition" "--marionette" "--headless" "--no-sandbox" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile9x5RAm"
+*** You are running in headless mode.
+
+(firefoxdeveloperedition:133056): Gtk-WARNING **: 00:37:57.482: Locale not supported by C library.
+	Using the fallback 'C' locale.
+1622660877719	Marionette	INFO	Marionette enabled
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofile9x5RAm/search.json.mozlz4", (void 0)))
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+1622660878558	Marionette	INFO	Listening on port 36385
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+1622660878578	Marionette	WARN	TLS certificate errors will be ignored for this session
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+1622660884228	Marionette	INFO	Stopped listening on port 36385
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1622660904043	geckodriver	INFO	Listening on 127.0.0.1:60951
+1622660904133	mozrunner::runner	INFO	Running command: "/usr/bin/firefox-developer-edition" "--marionette" "--no-sandbox" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile3rrBp3"
+
+(firefoxdeveloperedition:133761): Gtk-WARNING **: 00:38:24.171: Locale not supported by C library.
+	Using the fallback 'C' locale.
+1622660905040	Marionette	INFO	Marionette enabled
+
+(firefoxdeveloperedition:133761): Gtk-WARNING **: 00:38:25.070: Theme directory 16x16/panel of theme Mkos-Big-Sur-Night has no size field
+
+
+(firefoxdeveloperedition:133761): Gtk-WARNING **: 00:38:25.072: Theme directory 16x16@2x/places of theme Mkos-Big-Sur-Night has no size field
+
+
+(firefoxdeveloperedition:133761): Gtk-WARNING **: 00:38:25.073: Theme directory 24x24/apps of theme Mkos-Big-Sur-Night has no size field
+
+
+(firefoxdeveloperedition:133761): Gtk-WARNING **: 00:38:25.075: Theme directory 24x24@2x/panel of theme Mkos-Big-Sur-Night has no size field
+
+
+(firefoxdeveloperedition:133761): Gtk-WARNING **: 00:38:25.075: Theme directory 24x24@2x/panel of theme Mkos-Big-Sur-Night has no size field
+
+
+(/usr/lib/firefox-developer-edition/firefox:133869): Gtk-WARNING **: 00:38:25.323: Locale not supported by C library.
+	Using the fallback 'C' locale.
+
+(/usr/lib/firefox-developer-edition/firefox:133945): Gtk-WARNING **: 00:38:26.446: Locale not supported by C library.
+	Using the fallback 'C' locale.
+
+(/usr/lib/firefox-developer-edition/firefox:133991): Gtk-WARNING **: 00:38:27.632: Locale not supported by C library.
+	Using the fallback 'C' locale.
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofile3rrBp3/search.json.mozlz4", (void 0)))
+1622660909045	Marionette	INFO	Listening on port 45531
+1622660909081	Marionette	WARN	TLS certificate errors will be ignored for this session
+1622660914251	Marionette	INFO	Stopped listening on port 45531
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1622661000005	geckodriver	INFO	Listening on 127.0.0.1:48523
+1622661000091	mozrunner::runner	INFO	Running command: "/usr/bin/firefox-developer-edition" "--marionette" "--no-sandbox" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileHUv4TH"
+
+(firefoxdeveloperedition:135389): Gtk-WARNING **: 00:40:00.119: Locale not supported by C library.
+	Using the fallback 'C' locale.
+1622661001134	Marionette	INFO	Marionette enabled
+
+(firefoxdeveloperedition:135389): Gtk-WARNING **: 00:40:01.166: Theme directory 16x16/panel of theme Mkos-Big-Sur-Night has no size field
+
+
+(firefoxdeveloperedition:135389): Gtk-WARNING **: 00:40:01.168: Theme directory 16x16@2x/places of theme Mkos-Big-Sur-Night has no size field
+
+
+(firefoxdeveloperedition:135389): Gtk-WARNING **: 00:40:01.169: Theme directory 24x24/apps of theme Mkos-Big-Sur-Night has no size field
+
+
+(firefoxdeveloperedition:135389): Gtk-WARNING **: 00:40:01.170: Theme directory 24x24@2x/panel of theme Mkos-Big-Sur-Night has no size field
+
+
+(firefoxdeveloperedition:135389): Gtk-WARNING **: 00:40:01.171: Theme directory 24x24@2x/panel of theme Mkos-Big-Sur-Night has no size field
+
+
+(/usr/lib/firefox-developer-edition/firefox:135505): Gtk-WARNING **: 00:40:01.452: Locale not supported by C library.
+	Using the fallback 'C' locale.
+
+(/usr/lib/firefox-developer-edition/firefox:135576): Gtk-WARNING **: 00:40:02.576: Locale not supported by C library.
+	Using the fallback 'C' locale.
+
+(/usr/lib/firefox-developer-edition/firefox:135641): Gtk-WARNING **: 00:40:03.740: Locale not supported by C library.
+	Using the fallback 'C' locale.
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofileHUv4TH/search.json.mozlz4", (void 0)))
+1622661005612	Marionette	INFO	Listening on port 43895
+1622661005753	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://static-exp1.licdn.com/sc/h/58ikgnh04in2ngtxjdu5jjic1, line 1: Error: Could not lazy load JS with src https://static-exp1.licdn.com/sc/h/20oldnhklhzz1f88661e0volz
+1622661024424	Marionette	INFO	Stopped listening on port 43895
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1622661083837	geckodriver	INFO	Listening on 127.0.0.1:44913
+1622661083926	mozrunner::runner	INFO	Running command: "/usr/bin/firefox-developer-edition" "--marionette" "--no-sandbox" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile6O73CO"
+
+(firefoxdeveloperedition:136998): Gtk-WARNING **: 00:41:24.000: Locale not supported by C library.
+	Using the fallback 'C' locale.
+1622661085035	Marionette	INFO	Marionette enabled
+
+(firefoxdeveloperedition:136998): Gtk-WARNING **: 00:41:25.065: Theme directory 16x16/panel of theme Mkos-Big-Sur-Night has no size field
+
+
+(firefoxdeveloperedition:136998): Gtk-WARNING **: 00:41:25.066: Theme directory 16x16@2x/places of theme Mkos-Big-Sur-Night has no size field
+
+
+(firefoxdeveloperedition:136998): Gtk-WARNING **: 00:41:25.068: Theme directory 24x24/apps of theme Mkos-Big-Sur-Night has no size field
+
+
+(firefoxdeveloperedition:136998): Gtk-WARNING **: 00:41:25.069: Theme directory 24x24@2x/panel of theme Mkos-Big-Sur-Night has no size field
+
+
+(firefoxdeveloperedition:136998): Gtk-WARNING **: 00:41:25.070: Theme directory 24x24@2x/panel of theme Mkos-Big-Sur-Night has no size field
+
+
+(/usr/lib/firefox-developer-edition/firefox:137151): Gtk-WARNING **: 00:41:25.338: Locale not supported by C library.
+	Using the fallback 'C' locale.
+
+(/usr/lib/firefox-developer-edition/firefox:137191): Gtk-WARNING **: 00:41:26.528: Locale not supported by C library.
+	Using the fallback 'C' locale.
+
+(/usr/lib/firefox-developer-edition/firefox:137235): Gtk-WARNING **: 00:41:27.738: Locale not supported by C library.
+	Using the fallback 'C' locale.
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofile6O73CO/search.json.mozlz4", (void 0)))
+1622661088785	Marionette	INFO	Listening on port 44905
+1622661088873	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://static-exp1.licdn.com/sc/h/cx3rkyja24jm23u1gl9tvtke6, line 3713: unreachable code after return statement
+JavaScript warning: https://static-exp1.licdn.com/sc/h/1mdq9lxo0f97xlwcxotgjow4j, line 6: unreachable code after return statement
+JavaScript warning: https://static-exp1.licdn.com/sc/h/dwx2czm7c189tqyxig35e5adm, line 6: unreachable code after return statement
+JavaScript warning: https://static-exp1.licdn.com/sc/h/dwx2czm7c189tqyxig35e5adm, line 6: unreachable code after return statement
+JavaScript warning: https://static-exp1.licdn.com/sc/h/5vlzhyjcpd1dcglla92tl6mtr, line 6: unreachable code after return statement
+JavaScript warning: https://static-exp1.licdn.com/sc/h/5w7qbyexmw5ypfy6tsh1vlabf, line 6: unreachable code after return statement
+JavaScript warning: https://static-exp1.licdn.com/sc/h/64flwq81kt46kidawcub6je7g, line 6: unreachable code after return statement
+JavaScript warning: https://static-exp1.licdn.com/sc/h/cx3rkyja24jm23u1gl9tvtke6, line 3713: unreachable code after return statement
+JavaScript warning: https://static-exp1.licdn.com/sc/h/1a3i8sb3tqf3uncnl48je7no5, line 6: unreachable code after return statement
+JavaScript warning: https://static-exp1.licdn.com/sc/h/1a3i8sb3tqf3uncnl48je7no5, line 6: unreachable code after return statement
+JavaScript warning: https://static-exp1.licdn.com/sc/h/5w7qbyexmw5ypfy6tsh1vlabf, line 6: unreachable code after return statement
+JavaScript warning: https://static-exp1.licdn.com/sc/h/64flwq81kt46kidawcub6je7g, line 6: unreachable code after return statement
+JavaScript warning: https://static-exp1.licdn.com/sc/h/5w7qbyexmw5ypfy6tsh1vlabf, line 6: unreachable code after return statement
+JavaScript error: resource://devtools/server/actors/network-monitor/network-event-actor.js, line 108: Error: Got a request https://static-exp1.licdn.com/sc/h/6rdfz2v5fqc9asqrfur9zpcva without a browsingContextID set
+JavaScript error: resource://devtools/server/actors/network-monitor/network-event-actor.js, line 108: Error: Got a request https://static-exp1.licdn.com/sc/h/2xkj5wmotlb8m2ul4fklh4mck without a browsingContextID set
+JavaScript error: resource://devtools/server/actors/network-monitor/network-event-actor.js, line 108: Error: Got a request https://static-exp1.licdn.com/sc/h/31q2w57z8adc8sloy2pqcty2s without a browsingContextID set
+JavaScript error: resource://devtools/server/actors/network-monitor/network-event-actor.js, line 108: Error: Got a request https://static-exp1.licdn.com/sc/h/31q2w57z8adc8sloy2pqcty2s without a browsingContextID set
+1622661210111	geckodriver	INFO	Listening on 127.0.0.1:38167
+1622661211210	mozrunner::runner	INFO	Running command: "/usr/bin/firefox-developer-edition" "--marionette" "--no-sandbox" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileif4aQw"
+
+(firefoxdeveloperedition:139321): Gtk-WARNING **: 00:43:31.232: Locale not supported by C library.
+	Using the fallback 'C' locale.
+1622661212012	Marionette	INFO	Marionette enabled
+
+(firefoxdeveloperedition:139321): Gtk-WARNING **: 00:43:32.049: Theme directory 16x16/panel of theme Mkos-Big-Sur-Night has no size field
+
+
+(firefoxdeveloperedition:139321): Gtk-WARNING **: 00:43:32.053: Theme directory 16x16@2x/places of theme Mkos-Big-Sur-Night has no size field
+
+
+(firefoxdeveloperedition:139321): Gtk-WARNING **: 00:43:32.057: Theme directory 24x24/apps of theme Mkos-Big-Sur-Night has no size field
+
+
+(firefoxdeveloperedition:139321): Gtk-WARNING **: 00:43:32.059: Theme directory 24x24@2x/panel of theme Mkos-Big-Sur-Night has no size field
+
+
+(firefoxdeveloperedition:139321): Gtk-WARNING **: 00:43:32.060: Theme directory 24x24@2x/panel of theme Mkos-Big-Sur-Night has no size field
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+(/usr/lib/firefox-developer-edition/firefox:139447): Gtk-WARNING **: 00:43:32.742: Locale not supported by C library.
+	Using the fallback 'C' locale.
+1622661212937	Marionette	INFO	Stopped listening on port 44905
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+(/usr/lib/firefox-developer-edition/firefox:139512): Gtk-WARNING **: 00:43:35.625: Locale not supported by C library.
+	Using the fallback 'C' locale.
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofileif4aQw/search.json.mozlz4", (void 0)))
+
+(/usr/lib/firefox-developer-edition/firefox:139593): Gtk-WARNING **: 00:43:37.388: Locale not supported by C library.
+	Using the fallback 'C' locale.
+1622661217513	Marionette	INFO	Listening on port 46251
+1622661217583	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://static-exp1.licdn.com/sc/h/cx3rkyja24jm23u1gl9tvtke6, line 3713: unreachable code after return statement
+JavaScript warning: https://static-exp1.licdn.com/sc/h/1mdq9lxo0f97xlwcxotgjow4j, line 6: unreachable code after return statement
+JavaScript warning: https://static-exp1.licdn.com/sc/h/dwx2czm7c189tqyxig35e5adm, line 6: unreachable code after return statement
+JavaScript warning: https://static-exp1.licdn.com/sc/h/dwx2czm7c189tqyxig35e5adm, line 6: unreachable code after return statement
+JavaScript warning: https://static-exp1.licdn.com/sc/h/5vlzhyjcpd1dcglla92tl6mtr, line 6: unreachable code after return statement
+JavaScript warning: https://static-exp1.licdn.com/sc/h/5w7qbyexmw5ypfy6tsh1vlabf, line 6: unreachable code after return statement
+JavaScript warning: https://static-exp1.licdn.com/sc/h/64flwq81kt46kidawcub6je7g, line 6: unreachable code after return statement
+JavaScript warning: https://static-exp1.licdn.com/sc/h/cx3rkyja24jm23u1gl9tvtke6, line 3713: unreachable code after return statement
+JavaScript warning: https://static-exp1.licdn.com/sc/h/1a3i8sb3tqf3uncnl48je7no5, line 6: unreachable code after return statement
+JavaScript warning: https://static-exp1.licdn.com/sc/h/1a3i8sb3tqf3uncnl48je7no5, line 6: unreachable code after return statement
+JavaScript error: , line 0: NotFoundError: No such JSWindowActor 'MarionetteEvents'
+JavaScript warning: https://static-exp1.licdn.com/sc/h/5w7qbyexmw5ypfy6tsh1vlabf, line 6: unreachable code after return statement
+JavaScript error: , line 0: NotFoundError: No such JSWindowActor 'MarionetteEvents'
+JavaScript warning: https://static-exp1.licdn.com/sc/h/64flwq81kt46kidawcub6je7g, line 6: unreachable code after return statement
+JavaScript warning: https://static-exp1.licdn.com/sc/h/5w7qbyexmw5ypfy6tsh1vlabf, line 6: unreachable code after return statement
+JavaScript error: resource://devtools/server/actors/network-monitor/network-event-actor.js, line 108: Error: Got a request https://static-exp1.licdn.com/sc/h/6rdfz2v5fqc9asqrfur9zpcva without a browsingContextID set
+JavaScript error: resource://devtools/server/actors/network-monitor/network-event-actor.js, line 108: Error: Got a request https://static-exp1.licdn.com/sc/h/2xkj5wmotlb8m2ul4fklh4mck without a browsingContextID set
+JavaScript error: resource://devtools/server/actors/network-monitor/network-event-actor.js, line 108: Error: Got a request https://static-exp1.licdn.com/sc/h/31q2w57z8adc8sloy2pqcty2s without a browsingContextID set
+JavaScript error: resource://devtools/server/actors/network-monitor/network-event-actor.js, line 108: Error: Got a request https://static-exp1.licdn.com/sc/h/31q2w57z8adc8sloy2pqcty2s without a browsingContextID set
+1622661323384	geckodriver	INFO	Listening on 127.0.0.1:36459
+1622661323694	mozrunner::runner	INFO	Running command: "/usr/bin/firefox-developer-edition" "--marionette" "--no-sandbox" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileRu9dTz"
+
+(firefoxdeveloperedition:141413): Gtk-WARNING **: 00:45:23.818: Locale not supported by C library.
+	Using the fallback 'C' locale.
+1622661325697	Marionette	INFO	Marionette enabled
+
+(firefoxdeveloperedition:141413): Gtk-WARNING **: 00:45:25.766: Theme directory 16x16/panel of theme Mkos-Big-Sur-Night has no size field
+
+
+(firefoxdeveloperedition:141413): Gtk-WARNING **: 00:45:25.770: Theme directory 16x16@2x/places of theme Mkos-Big-Sur-Night has no size field
+
+
+(firefoxdeveloperedition:141413): Gtk-WARNING **: 00:45:25.774: Theme directory 24x24/apps of theme Mkos-Big-Sur-Night has no size field
+
+
+(firefoxdeveloperedition:141413): Gtk-WARNING **: 00:45:25.776: Theme directory 24x24@2x/panel of theme Mkos-Big-Sur-Night has no size field
+
+
+(firefoxdeveloperedition:141413): Gtk-WARNING **: 00:45:25.777: Theme directory 24x24@2x/panel of theme Mkos-Big-Sur-Night has no size field
+
+
+(/usr/lib/firefox-developer-edition/firefox:141550): Gtk-WARNING **: 00:45:26.112: Locale not supported by C library.
+	Using the fallback 'C' locale.
+1622661327438	Marionette	INFO	Stopped listening on port 46251
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+(/usr/lib/firefox-developer-edition/firefox:141623): Gtk-WARNING **: 00:45:28.774: Locale not supported by C library.
+	Using the fallback 'C' locale.
+
+(/usr/lib/firefox-developer-edition/firefox:141673): Gtk-WARNING **: 00:45:30.165: Locale not supported by C library.
+	Using the fallback 'C' locale.
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofileRu9dTz/search.json.mozlz4", (void 0)))
+1622661331718	Marionette	INFO	Listening on port 36137
+1622661331785	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://static-exp1.licdn.com/sc/h/cx3rkyja24jm23u1gl9tvtke6, line 3713: unreachable code after return statement
+JavaScript warning: https://static-exp1.licdn.com/sc/h/1mdq9lxo0f97xlwcxotgjow4j, line 6: unreachable code after return statement
+JavaScript warning: https://static-exp1.licdn.com/sc/h/dwx2czm7c189tqyxig35e5adm, line 6: unreachable code after return statement
+JavaScript warning: https://static-exp1.licdn.com/sc/h/dwx2czm7c189tqyxig35e5adm, line 6: unreachable code after return statement
+JavaScript warning: https://static-exp1.licdn.com/sc/h/5vlzhyjcpd1dcglla92tl6mtr, line 6: unreachable code after return statement
+JavaScript warning: https://static-exp1.licdn.com/sc/h/5w7qbyexmw5ypfy6tsh1vlabf, line 6: unreachable code after return statement
+JavaScript warning: https://static-exp1.licdn.com/sc/h/64flwq81kt46kidawcub6je7g, line 6: unreachable code after return statement
+JavaScript warning: https://static-exp1.licdn.com/sc/h/cx3rkyja24jm23u1gl9tvtke6, line 3713: unreachable code after return statement
+JavaScript warning: https://static-exp1.licdn.com/sc/h/1a3i8sb3tqf3uncnl48je7no5, line 6: unreachable code after return statement
+JavaScript warning: https://static-exp1.licdn.com/sc/h/1a3i8sb3tqf3uncnl48je7no5, line 6: unreachable code after return statement
+JavaScript warning: https://static-exp1.licdn.com/sc/h/5w7qbyexmw5ypfy6tsh1vlabf, line 6: unreachable code after return statement
+JavaScript warning: https://static-exp1.licdn.com/sc/h/64flwq81kt46kidawcub6je7g, line 6: unreachable code after return statement
+1622661415248	Marionette	INFO	Stopped listening on port 36137
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1622661677879	geckodriver	INFO	Listening on 127.0.0.1:51601
+1622661677973	mozrunner::runner	INFO	Running command: "/usr/bin/firefox-developer-edition" "--marionette" "--no-sandbox" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofiletCmCWT"
+
+(firefoxdeveloperedition:146771): Gtk-WARNING **: 00:51:18.013: Locale not supported by C library.
+	Using the fallback 'C' locale.
+1622661678722	Marionette	INFO	Marionette enabled
+
+(firefoxdeveloperedition:146771): Gtk-WARNING **: 00:51:18.762: Theme directory 16x16/panel of theme Mkos-Big-Sur-Night has no size field
+
+
+(firefoxdeveloperedition:146771): Gtk-WARNING **: 00:51:18.765: Theme directory 16x16@2x/places of theme Mkos-Big-Sur-Night has no size field
+
+
+(firefoxdeveloperedition:146771): Gtk-WARNING **: 00:51:18.769: Theme directory 24x24/apps of theme Mkos-Big-Sur-Night has no size field
+
+
+(firefoxdeveloperedition:146771): Gtk-WARNING **: 00:51:18.771: Theme directory 24x24@2x/panel of theme Mkos-Big-Sur-Night has no size field
+
+
+(firefoxdeveloperedition:146771): Gtk-WARNING **: 00:51:18.772: Theme directory 24x24@2x/panel of theme Mkos-Big-Sur-Night has no size field
+
+
+(/usr/lib/firefox-developer-edition/firefox:146878): Gtk-WARNING **: 00:51:19.044: Locale not supported by C library.
+	Using the fallback 'C' locale.
+
+(/usr/lib/firefox-developer-edition/firefox:146914): Gtk-WARNING **: 00:51:20.187: Locale not supported by C library.
+	Using the fallback 'C' locale.
+
+(/usr/lib/firefox-developer-edition/firefox:146958): Gtk-WARNING **: 00:51:21.463: Locale not supported by C library.
+	Using the fallback 'C' locale.
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofiletCmCWT/search.json.mozlz4", (void 0)))
+1622661683478	Marionette	INFO	Listening on port 46469
+1622661683508	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://static-exp1.licdn.com/sc/h/cx3rkyja24jm23u1gl9tvtke6, line 3713: unreachable code after return statement
+JavaScript warning: https://static-exp1.licdn.com/sc/h/1mdq9lxo0f97xlwcxotgjow4j, line 6: unreachable code after return statement
+JavaScript warning: https://static-exp1.licdn.com/sc/h/dwx2czm7c189tqyxig35e5adm, line 6: unreachable code after return statement
+JavaScript warning: https://static-exp1.licdn.com/sc/h/dwx2czm7c189tqyxig35e5adm, line 6: unreachable code after return statement
+JavaScript warning: https://static-exp1.licdn.com/sc/h/5vlzhyjcpd1dcglla92tl6mtr, line 6: unreachable code after return statement
+JavaScript warning: https://static-exp1.licdn.com/sc/h/5w7qbyexmw5ypfy6tsh1vlabf, line 6: unreachable code after return statement
+JavaScript warning: https://static-exp1.licdn.com/sc/h/64flwq81kt46kidawcub6je7g, line 6: unreachable code after return statement
+JavaScript error: , line 0: uncaught exception: Object
+JavaScript warning: https://static-exp1.licdn.com/sc/h/cx3rkyja24jm23u1gl9tvtke6, line 3713: unreachable code after return statement
+JavaScript warning: https://static-exp1.licdn.com/sc/h/1a3i8sb3tqf3uncnl48je7no5, line 6: unreachable code after return statement
+JavaScript warning: https://static-exp1.licdn.com/sc/h/1a3i8sb3tqf3uncnl48je7no5, line 6: unreachable code after return statement
+JavaScript warning: https://static-exp1.licdn.com/sc/h/5w7qbyexmw5ypfy6tsh1vlabf, line 6: unreachable code after return statement
+JavaScript warning: https://static-exp1.licdn.com/sc/h/64flwq81kt46kidawcub6je7g, line 6: unreachable code after return statement
+1622661731864	geckodriver	INFO	Listening on 127.0.0.1:45923
+1622661732052	mozrunner::runner	INFO	Running command: "/usr/bin/firefox-developer-edition" "--marionette" "--no-sandbox" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileAPmO5I"
+
+(firefoxdeveloperedition:147852): Gtk-WARNING **: 00:52:12.161: Locale not supported by C library.
+	Using the fallback 'C' locale.
+1622661733738	Marionette	INFO	Marionette enabled
+
+(firefoxdeveloperedition:147852): Gtk-WARNING **: 00:52:13.793: Theme directory 16x16/panel of theme Mkos-Big-Sur-Night has no size field
+
+
+(firefoxdeveloperedition:147852): Gtk-WARNING **: 00:52:13.797: Theme directory 16x16@2x/places of theme Mkos-Big-Sur-Night has no size field
+
+
+(firefoxdeveloperedition:147852): Gtk-WARNING **: 00:52:13.800: Theme directory 24x24/apps of theme Mkos-Big-Sur-Night has no size field
+
+
+(firefoxdeveloperedition:147852): Gtk-WARNING **: 00:52:13.802: Theme directory 24x24@2x/panel of theme Mkos-Big-Sur-Night has no size field
+
+
+(firefoxdeveloperedition:147852): Gtk-WARNING **: 00:52:13.803: Theme directory 24x24@2x/panel of theme Mkos-Big-Sur-Night has no size field
+
+
+(/usr/lib/firefox-developer-edition/firefox:147994): Gtk-WARNING **: 00:52:14.191: Locale not supported by C library.
+	Using the fallback 'C' locale.
+
+(/usr/lib/firefox-developer-edition/firefox:148030): Gtk-WARNING **: 00:52:15.666: Locale not supported by C library.
+	Using the fallback 'C' locale.
+
+(/usr/lib/firefox-developer-edition/firefox:148082): Gtk-WARNING **: 00:52:17.753: Locale not supported by C library.
+	Using the fallback 'C' locale.
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofileAPmO5I/search.json.mozlz4", (void 0)))
+1622661740014	Marionette	INFO	Stopped listening on port 46469
+1622661740359	Marionette	INFO	Listening on port 41207
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1622661740453	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://static-exp1.licdn.com/sc/h/cx3rkyja24jm23u1gl9tvtke6, line 3713: unreachable code after return statement
+JavaScript warning: https://static-exp1.licdn.com/sc/h/1mdq9lxo0f97xlwcxotgjow4j, line 6: unreachable code after return statement
+JavaScript warning: https://static-exp1.licdn.com/sc/h/dwx2czm7c189tqyxig35e5adm, line 6: unreachable code after return statement
+JavaScript warning: https://static-exp1.licdn.com/sc/h/dwx2czm7c189tqyxig35e5adm, line 6: unreachable code after return statement
+JavaScript warning: https://static-exp1.licdn.com/sc/h/5vlzhyjcpd1dcglla92tl6mtr, line 6: unreachable code after return statement
+JavaScript warning: https://static-exp1.licdn.com/sc/h/5w7qbyexmw5ypfy6tsh1vlabf, line 6: unreachable code after return statement
+JavaScript warning: https://static-exp1.licdn.com/sc/h/64flwq81kt46kidawcub6je7g, line 6: unreachable code after return statement
+JavaScript error: , line 0: uncaught exception: Object
+JavaScript warning: https://static-exp1.licdn.com/sc/h/cx3rkyja24jm23u1gl9tvtke6, line 3713: unreachable code after return statement
+JavaScript warning: https://static-exp1.licdn.com/sc/h/1a3i8sb3tqf3uncnl48je7no5, line 6: unreachable code after return statement
+JavaScript warning: https://static-exp1.licdn.com/sc/h/1a3i8sb3tqf3uncnl48je7no5, line 6: unreachable code after return statement
+JavaScript warning: https://static-exp1.licdn.com/sc/h/5w7qbyexmw5ypfy6tsh1vlabf, line 6: unreachable code after return statement
+JavaScript warning: https://static-exp1.licdn.com/sc/h/64flwq81kt46kidawcub6je7g, line 6: unreachable code after return statement
+JavaScript warning: https://static-exp1.licdn.com/sc/h/5w7qbyexmw5ypfy6tsh1vlabf, line 6: unreachable code after return statement
+JavaScript error: resource://devtools/server/actors/network-monitor/network-event-actor.js, line 108: Error: Got a request https://static-exp1.licdn.com/sc/h/6rdfz2v5fqc9asqrfur9zpcva without a browsingContextID set
+JavaScript error: resource://devtools/server/actors/network-monitor/network-event-actor.js, line 108: Error: Got a request https://static-exp1.licdn.com/sc/h/2xkj5wmotlb8m2ul4fklh4mck without a browsingContextID set
+JavaScript error: resource://devtools/server/actors/network-monitor/network-event-actor.js, line 108: Error: Got a request https://static-exp1.licdn.com/sc/h/31q2w57z8adc8sloy2pqcty2s without a browsingContextID set
+JavaScript error: resource://devtools/server/actors/network-monitor/network-event-actor.js, line 108: Error: Got a request https://static-exp1.licdn.com/sc/h/31q2w57z8adc8sloy2pqcty2s without a browsingContextID set
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+1622661901315	geckodriver	INFO	Listening on 127.0.0.1:59295
+1622661901430	mozrunner::runner	INFO	Running command: "/usr/bin/firefox-developer-edition" "--marionette" "--no-sandbox" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileIIZD5F"
+
+(firefoxdeveloperedition:150382): Gtk-WARNING **: 00:55:01.462: Locale not supported by C library.
+	Using the fallback 'C' locale.
+1622661902195	Marionette	INFO	Marionette enabled
+
+(firefoxdeveloperedition:150382): Gtk-WARNING **: 00:55:02.261: Theme directory 16x16/panel of theme Mkos-Big-Sur-Night has no size field
+
+
+(firefoxdeveloperedition:150382): Gtk-WARNING **: 00:55:02.266: Theme directory 16x16@2x/places of theme Mkos-Big-Sur-Night has no size field
+
+
+(firefoxdeveloperedition:150382): Gtk-WARNING **: 00:55:02.271: Theme directory 24x24/apps of theme Mkos-Big-Sur-Night has no size field
+
+
+(firefoxdeveloperedition:150382): Gtk-WARNING **: 00:55:02.274: Theme directory 24x24@2x/panel of theme Mkos-Big-Sur-Night has no size field
+
+
+(firefoxdeveloperedition:150382): Gtk-WARNING **: 00:55:02.276: Theme directory 24x24@2x/panel of theme Mkos-Big-Sur-Night has no size field
+
+
+(/usr/lib/firefox-developer-edition/firefox:150523): Gtk-WARNING **: 00:55:02.963: Locale not supported by C library.
+	Using the fallback 'C' locale.
+
+(/usr/lib/firefox-developer-edition/firefox:150555): Gtk-WARNING **: 00:55:04.206: Locale not supported by C library.
+	Using the fallback 'C' locale.
+
+(/usr/lib/firefox-developer-edition/firefox:150605): Gtk-WARNING **: 00:55:05.443: Locale not supported by C library.
+	Using the fallback 'C' locale.
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofileIIZD5F/search.json.mozlz4", (void 0)))
+1622661906551	Marionette	INFO	Listening on port 36003
+1622661906691	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://static-exp1.licdn.com/sc/h/cx3rkyja24jm23u1gl9tvtke6, line 3713: unreachable code after return statement
+JavaScript warning: https://static-exp1.licdn.com/sc/h/1mdq9lxo0f97xlwcxotgjow4j, line 6: unreachable code after return statement
+JavaScript warning: https://static-exp1.licdn.com/sc/h/dwx2czm7c189tqyxig35e5adm, line 6: unreachable code after return statement
+JavaScript warning: https://static-exp1.licdn.com/sc/h/dwx2czm7c189tqyxig35e5adm, line 6: unreachable code after return statement
+JavaScript warning: https://static-exp1.licdn.com/sc/h/5vlzhyjcpd1dcglla92tl6mtr, line 6: unreachable code after return statement
+JavaScript warning: https://static-exp1.licdn.com/sc/h/5w7qbyexmw5ypfy6tsh1vlabf, line 6: unreachable code after return statement
+JavaScript warning: https://static-exp1.licdn.com/sc/h/64flwq81kt46kidawcub6je7g, line 6: unreachable code after return statement
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript warning: https://static-exp1.licdn.com/sc/h/cx3rkyja24jm23u1gl9tvtke6, line 3713: unreachable code after return statement
+JavaScript warning: https://static-exp1.licdn.com/sc/h/1a3i8sb3tqf3uncnl48je7no5, line 6: unreachable code after return statement
+JavaScript warning: https://static-exp1.licdn.com/sc/h/1a3i8sb3tqf3uncnl48je7no5, line 6: unreachable code after return statement
+JavaScript warning: https://static-exp1.licdn.com/sc/h/5w7qbyexmw5ypfy6tsh1vlabf, line 6: unreachable code after return statement
+JavaScript warning: https://static-exp1.licdn.com/sc/h/64flwq81kt46kidawcub6je7g, line 6: unreachable code after return statement
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+1622661939822	geckodriver	INFO	Listening on 127.0.0.1:54923
+1622661939917	mozrunner::runner	INFO	Running command: "/usr/bin/firefox-developer-edition" "--marionette" "--no-sandbox" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileCz1RU4"
+
+(firefoxdeveloperedition:151159): Gtk-WARNING **: 00:55:39.939: Locale not supported by C library.
+	Using the fallback 'C' locale.
+1622661940957	Marionette	INFO	Marionette enabled
+
+(firefoxdeveloperedition:151159): Gtk-WARNING **: 00:55:41.018: Theme directory 16x16/panel of theme Mkos-Big-Sur-Night has no size field
+
+
+(firefoxdeveloperedition:151159): Gtk-WARNING **: 00:55:41.023: Theme directory 16x16@2x/places of theme Mkos-Big-Sur-Night has no size field
+
+
+(firefoxdeveloperedition:151159): Gtk-WARNING **: 00:55:41.027: Theme directory 24x24/apps of theme Mkos-Big-Sur-Night has no size field
+
+
+(firefoxdeveloperedition:151159): Gtk-WARNING **: 00:55:41.030: Theme directory 24x24@2x/panel of theme Mkos-Big-Sur-Night has no size field
+
+
+(firefoxdeveloperedition:151159): Gtk-WARNING **: 00:55:41.031: Theme directory 24x24@2x/panel of theme Mkos-Big-Sur-Night has no size field
+
+
+(/usr/lib/firefox-developer-edition/firefox:151330): Gtk-WARNING **: 00:55:41.353: Locale not supported by C library.
+	Using the fallback 'C' locale.
+
+(/usr/lib/firefox-developer-edition/firefox:151360): Gtk-WARNING **: 00:55:42.499: Locale not supported by C library.
+	Using the fallback 'C' locale.
+
+(/usr/lib/firefox-developer-edition/firefox:151428): Gtk-WARNING **: 00:55:43.701: Locale not supported by C library.
+	Using the fallback 'C' locale.
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofileCz1RU4/search.json.mozlz4", (void 0)))
+1622661945058	Marionette	INFO	Listening on port 35995
+1622661945146	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://static-exp1.licdn.com/sc/h/cx3rkyja24jm23u1gl9tvtke6, line 3713: unreachable code after return statement
+JavaScript warning: https://static-exp1.licdn.com/sc/h/1mdq9lxo0f97xlwcxotgjow4j, line 6: unreachable code after return statement
+JavaScript warning: https://static-exp1.licdn.com/sc/h/dwx2czm7c189tqyxig35e5adm, line 6: unreachable code after return statement
+JavaScript warning: https://static-exp1.licdn.com/sc/h/dwx2czm7c189tqyxig35e5adm, line 6: unreachable code after return statement
+JavaScript warning: https://static-exp1.licdn.com/sc/h/5vlzhyjcpd1dcglla92tl6mtr, line 6: unreachable code after return statement
+JavaScript warning: https://static-exp1.licdn.com/sc/h/5w7qbyexmw5ypfy6tsh1vlabf, line 6: unreachable code after return statement
+JavaScript warning: https://static-exp1.licdn.com/sc/h/64flwq81kt46kidawcub6je7g, line 6: unreachable code after return statement
+JavaScript warning: https://static-exp1.licdn.com/sc/h/cx3rkyja24jm23u1gl9tvtke6, line 3713: unreachable code after return statement
+JavaScript warning: https://static-exp1.licdn.com/sc/h/1a3i8sb3tqf3uncnl48je7no5, line 6: unreachable code after return statement
+JavaScript warning: https://static-exp1.licdn.com/sc/h/1a3i8sb3tqf3uncnl48je7no5, line 6: unreachable code after return statement
+JavaScript warning: https://static-exp1.licdn.com/sc/h/5w7qbyexmw5ypfy6tsh1vlabf, line 6: unreachable code after return statement
+JavaScript warning: https://static-exp1.licdn.com/sc/h/64flwq81kt46kidawcub6je7g, line 6: unreachable code after return statement
+JavaScript warning: https://static-exp1.licdn.com/sc/h/5w7qbyexmw5ypfy6tsh1vlabf, line 6: unreachable code after return statement
+JavaScript error: resource://devtools/server/actors/network-monitor/network-event-actor.js, line 108: Error: Got a request https://static-exp1.licdn.com/sc/h/6rdfz2v5fqc9asqrfur9zpcva without a browsingContextID set
+JavaScript error: resource://devtools/server/actors/network-monitor/network-event-actor.js, line 108: Error: Got a request https://static-exp1.licdn.com/sc/h/2xkj5wmotlb8m2ul4fklh4mck without a browsingContextID set
+JavaScript error: resource://devtools/server/actors/network-monitor/network-event-actor.js, line 108: Error: Got a request https://static-exp1.licdn.com/sc/h/31q2w57z8adc8sloy2pqcty2s without a browsingContextID set
+JavaScript error: resource://devtools/server/actors/network-monitor/network-event-actor.js, line 108: Error: Got a request https://static-exp1.licdn.com/sc/h/31q2w57z8adc8sloy2pqcty2s without a browsingContextID set
+1622662532676	geckodriver	INFO	Listening on 127.0.0.1:41295
+1622662532938	mozrunner::runner	INFO	Running command: "/usr/bin/firefox-developer-edition" "--marionette" "--no-sandbox" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofilebEuWVY"
+
+(firefoxdeveloperedition:159315): Gtk-WARNING **: 01:05:33.023: Locale not supported by C library.
+	Using the fallback 'C' locale.
+1622662534294	Marionette	INFO	Marionette enabled
+
+(firefoxdeveloperedition:159315): Gtk-WARNING **: 01:05:34.375: Theme directory 16x16/panel of theme Mkos-Big-Sur-Night has no size field
+
+
+(firefoxdeveloperedition:159315): Gtk-WARNING **: 01:05:34.379: Theme directory 16x16@2x/places of theme Mkos-Big-Sur-Night has no size field
+
+
+(firefoxdeveloperedition:159315): Gtk-WARNING **: 01:05:34.385: Theme directory 24x24/apps of theme Mkos-Big-Sur-Night has no size field
+
+
+(firefoxdeveloperedition:159315): Gtk-WARNING **: 01:05:34.387: Theme directory 24x24@2x/panel of theme Mkos-Big-Sur-Night has no size field
+
+
+(firefoxdeveloperedition:159315): Gtk-WARNING **: 01:05:34.389: Theme directory 24x24@2x/panel of theme Mkos-Big-Sur-Night has no size field
+
+
+(/usr/lib/firefox-developer-edition/firefox:159441): Gtk-WARNING **: 01:05:35.005: Locale not supported by C library.
+	Using the fallback 'C' locale.
+
+(/usr/lib/firefox-developer-edition/firefox:159474): Gtk-WARNING **: 01:05:36.166: Locale not supported by C library.
+	Using the fallback 'C' locale.
+
+(/usr/lib/firefox-developer-edition/firefox:159517): Gtk-WARNING **: 01:05:37.572: Locale not supported by C library.
+	Using the fallback 'C' locale.
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofilebEuWVY/search.json.mozlz4", (void 0)))
+1622662540566	Marionette	INFO	Listening on port 38601
+1622662540682	Marionette	WARN	TLS certificate errors will be ignored for this session
+console.error: Region.jsm: "Error fetching region" (new Error("TIMEOUT", "resource://gre/modules/Region.jsm", 772))
+console.error: Region.jsm: "Failed to fetch region" (new Error("TIMEOUT", "resource://gre/modules/Region.jsm", 419))
+JavaScript warning: https://static-exp1.licdn.com/sc/h/cx3rkyja24jm23u1gl9tvtke6, line 3713: unreachable code after return statement
+JavaScript warning: https://static-exp1.licdn.com/sc/h/1mdq9lxo0f97xlwcxotgjow4j, line 6: unreachable code after return statement
+JavaScript warning: https://static-exp1.licdn.com/sc/h/dwx2czm7c189tqyxig35e5adm, line 6: unreachable code after return statement
+JavaScript warning: https://static-exp1.licdn.com/sc/h/dwx2czm7c189tqyxig35e5adm, line 6: unreachable code after return statement
+JavaScript warning: https://static-exp1.licdn.com/sc/h/5vlzhyjcpd1dcglla92tl6mtr, line 6: unreachable code after return statement
+JavaScript warning: https://static-exp1.licdn.com/sc/h/5w7qbyexmw5ypfy6tsh1vlabf, line 6: unreachable code after return statement
+JavaScript warning: https://static-exp1.licdn.com/sc/h/64flwq81kt46kidawcub6je7g, line 6: unreachable code after return statement
+JavaScript warning: https://static-exp1.licdn.com/sc/h/cx3rkyja24jm23u1gl9tvtke6, line 3713: unreachable code after return statement
+JavaScript warning: https://static-exp1.licdn.com/sc/h/1a3i8sb3tqf3uncnl48je7no5, line 6: unreachable code after return statement
+JavaScript warning: https://static-exp1.licdn.com/sc/h/1a3i8sb3tqf3uncnl48je7no5, line 6: unreachable code after return statement
+JavaScript warning: https://static-exp1.licdn.com/sc/h/5w7qbyexmw5ypfy6tsh1vlabf, line 6: unreachable code after return statement
+JavaScript warning: https://static-exp1.licdn.com/sc/h/64flwq81kt46kidawcub6je7g, line 6: unreachable code after return statement
+JavaScript warning: https://static-exp1.licdn.com/sc/h/5w7qbyexmw5ypfy6tsh1vlabf, line 6: unreachable code after return statement
+JavaScript error: resource://devtools/server/actors/network-monitor/network-event-actor.js, line 108: Error: Got a request https://static-exp1.licdn.com/sc/h/6rdfz2v5fqc9asqrfur9zpcva without a browsingContextID set
+JavaScript error: resource://devtools/server/actors/network-monitor/network-event-actor.js, line 108: Error: Got a request https://static-exp1.licdn.com/sc/h/2xkj5wmotlb8m2ul4fklh4mck without a browsingContextID set
+JavaScript error: resource://devtools/server/actors/network-monitor/network-event-actor.js, line 108: Error: Got a request https://static-exp1.licdn.com/sc/h/31q2w57z8adc8sloy2pqcty2s without a browsingContextID set
+JavaScript error: resource://devtools/server/actors/network-monitor/network-event-actor.js, line 108: Error: Got a request https://static-exp1.licdn.com/sc/h/31q2w57z8adc8sloy2pqcty2s without a browsingContextID set
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+1622662687835	geckodriver	INFO	Listening on 127.0.0.1:48463
+1622662688178	mozrunner::runner	INFO	Running command: "/usr/bin/firefox-developer-edition" "--marionette" "--no-sandbox" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile5yKOvc"
+
+(firefoxdeveloperedition:161666): Gtk-WARNING **: 01:08:08.299: Locale not supported by C library.
+	Using the fallback 'C' locale.
+1622662689660	Marionette	INFO	Marionette enabled
+
+(firefoxdeveloperedition:161666): Gtk-WARNING **: 01:08:09.719: Theme directory 16x16/panel of theme Mkos-Big-Sur-Night has no size field
+
+
+(firefoxdeveloperedition:161666): Gtk-WARNING **: 01:08:09.723: Theme directory 16x16@2x/places of theme Mkos-Big-Sur-Night has no size field
+
+
+(firefoxdeveloperedition:161666): Gtk-WARNING **: 01:08:09.727: Theme directory 24x24/apps of theme Mkos-Big-Sur-Night has no size field
+
+
+(firefoxdeveloperedition:161666): Gtk-WARNING **: 01:08:09.729: Theme directory 24x24@2x/panel of theme Mkos-Big-Sur-Night has no size field
+
+
+(firefoxdeveloperedition:161666): Gtk-WARNING **: 01:08:09.730: Theme directory 24x24@2x/panel of theme Mkos-Big-Sur-Night has no size field
+
+
+(/usr/lib/firefox-developer-edition/firefox:161845): Gtk-WARNING **: 01:08:10.077: Locale not supported by C library.
+	Using the fallback 'C' locale.
+
+(/usr/lib/firefox-developer-edition/firefox:161890): Gtk-WARNING **: 01:08:12.513: Locale not supported by C library.
+	Using the fallback 'C' locale.
+1622662694944	Marionette	INFO	Stopped listening on port 35995
+
+(/usr/lib/firefox-developer-edition/firefox:162028): Gtk-WARNING **: 01:08:15.223: Locale not supported by C library.
+	Using the fallback 'C' locale.
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofile5yKOvc/search.json.mozlz4", (void 0)))
+1622662696546	Marionette	INFO	Listening on port 36535
+1622662696648	Marionette	WARN	TLS certificate errors will be ignored for this session
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+JavaScript warning: https://static-exp1.licdn.com/sc/h/cx3rkyja24jm23u1gl9tvtke6, line 3713: unreachable code after return statement
+JavaScript warning: https://static-exp1.licdn.com/sc/h/1mdq9lxo0f97xlwcxotgjow4j, line 6: unreachable code after return statement
+JavaScript warning: https://static-exp1.licdn.com/sc/h/dwx2czm7c189tqyxig35e5adm, line 6: unreachable code after return statement
+JavaScript warning: https://static-exp1.licdn.com/sc/h/dwx2czm7c189tqyxig35e5adm, line 6: unreachable code after return statement
+JavaScript warning: https://static-exp1.licdn.com/sc/h/5vlzhyjcpd1dcglla92tl6mtr, line 6: unreachable code after return statement
+JavaScript warning: https://static-exp1.licdn.com/sc/h/5w7qbyexmw5ypfy6tsh1vlabf, line 6: unreachable code after return statement
+JavaScript warning: https://static-exp1.licdn.com/sc/h/64flwq81kt46kidawcub6je7g, line 6: unreachable code after return statement
+JavaScript warning: https://static-exp1.licdn.com/sc/h/cx3rkyja24jm23u1gl9tvtke6, line 3713: unreachable code after return statement
+JavaScript warning: https://static-exp1.licdn.com/sc/h/1a3i8sb3tqf3uncnl48je7no5, line 6: unreachable code after return statement
+JavaScript warning: https://static-exp1.licdn.com/sc/h/1a3i8sb3tqf3uncnl48je7no5, line 6: unreachable code after return statement
+JavaScript warning: https://static-exp1.licdn.com/sc/h/5w7qbyexmw5ypfy6tsh1vlabf, line 6: unreachable code after return statement
+JavaScript warning: https://static-exp1.licdn.com/sc/h/64flwq81kt46kidawcub6je7g, line 6: unreachable code after return statement
+1622662962341	geckodriver	INFO	Listening on 127.0.0.1:40527
+1622662962424	mozrunner::runner	INFO	Running command: "/usr/bin/firefox-developer-edition" "--marionette" "--no-sandbox" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileN0rl5P"
+
+(firefoxdeveloperedition:167044): Gtk-WARNING **: 01:12:42.476: Locale not supported by C library.
+	Using the fallback 'C' locale.
+1622662963629	Marionette	INFO	Marionette enabled
+
+(firefoxdeveloperedition:167044): Gtk-WARNING **: 01:12:43.659: Theme directory 16x16/panel of theme Mkos-Big-Sur-Night has no size field
+
+
+(firefoxdeveloperedition:167044): Gtk-WARNING **: 01:12:43.660: Theme directory 16x16@2x/places of theme Mkos-Big-Sur-Night has no size field
+
+
+(firefoxdeveloperedition:167044): Gtk-WARNING **: 01:12:43.662: Theme directory 24x24/apps of theme Mkos-Big-Sur-Night has no size field
+
+
+(firefoxdeveloperedition:167044): Gtk-WARNING **: 01:12:43.663: Theme directory 24x24@2x/panel of theme Mkos-Big-Sur-Night has no size field
+
+
+(firefoxdeveloperedition:167044): Gtk-WARNING **: 01:12:43.664: Theme directory 24x24@2x/panel of theme Mkos-Big-Sur-Night has no size field
+
+
+(/usr/lib/firefox-developer-edition/firefox:167231): Gtk-WARNING **: 01:12:43.947: Locale not supported by C library.
+	Using the fallback 'C' locale.
+
+(/usr/lib/firefox-developer-edition/firefox:167261): Gtk-WARNING **: 01:12:45.103: Locale not supported by C library.
+	Using the fallback 'C' locale.
+
+(/usr/lib/firefox-developer-edition/firefox:167308): Gtk-WARNING **: 01:12:46.256: Locale not supported by C library.
+	Using the fallback 'C' locale.
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofileN0rl5P/search.json.mozlz4", (void 0)))
+1622662967642	Marionette	INFO	Listening on port 38337
+1622662967769	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://static-exp1.licdn.com/sc/h/cx3rkyja24jm23u1gl9tvtke6, line 3713: unreachable code after return statement
+JavaScript warning: https://static-exp1.licdn.com/sc/h/1mdq9lxo0f97xlwcxotgjow4j, line 6: unreachable code after return statement
+JavaScript warning: https://static-exp1.licdn.com/sc/h/dwx2czm7c189tqyxig35e5adm, line 6: unreachable code after return statement
+1622662973997	Marionette	INFO	Stopped listening on port 36535
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+JavaScript warning: https://static-exp1.licdn.com/sc/h/dwx2czm7c189tqyxig35e5adm, line 6: unreachable code after return statement
+JavaScript warning: https://static-exp1.licdn.com/sc/h/5vlzhyjcpd1dcglla92tl6mtr, line 6: unreachable code after return statement
+JavaScript warning: https://static-exp1.licdn.com/sc/h/5w7qbyexmw5ypfy6tsh1vlabf, line 6: unreachable code after return statement
+JavaScript warning: https://static-exp1.licdn.com/sc/h/64flwq81kt46kidawcub6je7g, line 6: unreachable code after return statement
+JavaScript warning: https://static-exp1.licdn.com/sc/h/cx3rkyja24jm23u1gl9tvtke6, line 3713: unreachable code after return statement
+JavaScript warning: https://static-exp1.licdn.com/sc/h/1a3i8sb3tqf3uncnl48je7no5, line 6: unreachable code after return statement
+JavaScript warning: https://static-exp1.licdn.com/sc/h/1a3i8sb3tqf3uncnl48je7no5, line 6: unreachable code after return statement
+JavaScript warning: https://static-exp1.licdn.com/sc/h/5w7qbyexmw5ypfy6tsh1vlabf, line 6: unreachable code after return statement
+JavaScript warning: https://static-exp1.licdn.com/sc/h/64flwq81kt46kidawcub6je7g, line 6: unreachable code after return statement
+1622663097010	Marionette	INFO	Stopped listening on port 38337
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1622663394074	geckodriver	INFO	Listening on 127.0.0.1:52865
+1622663394151	mozrunner::runner	INFO	Running command: "/usr/bin/firefox-developer-edition" "--marionette" "--no-sandbox" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofilehwoaUO"
+
+(firefoxdeveloperedition:174262): Gtk-WARNING **: 01:19:54.180: Locale not supported by C library.
+	Using the fallback 'C' locale.
+1622663394827	Marionette	INFO	Marionette enabled
+
+(firefoxdeveloperedition:174262): Gtk-WARNING **: 01:19:54.856: Theme directory 16x16/panel of theme Mkos-Big-Sur-Night has no size field
+
+
+(firefoxdeveloperedition:174262): Gtk-WARNING **: 01:19:54.858: Theme directory 16x16@2x/places of theme Mkos-Big-Sur-Night has no size field
+
+
+(firefoxdeveloperedition:174262): Gtk-WARNING **: 01:19:54.859: Theme directory 24x24/apps of theme Mkos-Big-Sur-Night has no size field
+
+
+(firefoxdeveloperedition:174262): Gtk-WARNING **: 01:19:54.861: Theme directory 24x24@2x/panel of theme Mkos-Big-Sur-Night has no size field
+
+
+(firefoxdeveloperedition:174262): Gtk-WARNING **: 01:19:54.861: Theme directory 24x24@2x/panel of theme Mkos-Big-Sur-Night has no size field
+
+
+(/usr/lib/firefox-developer-edition/firefox:174368): Gtk-WARNING **: 01:19:55.110: Locale not supported by C library.
+	Using the fallback 'C' locale.
+
+(/usr/lib/firefox-developer-edition/firefox:174405): Gtk-WARNING **: 01:19:56.224: Locale not supported by C library.
+	Using the fallback 'C' locale.
+
+(/usr/lib/firefox-developer-edition/firefox:174451): Gtk-WARNING **: 01:19:57.427: Locale not supported by C library.
+	Using the fallback 'C' locale.
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofilehwoaUO/search.json.mozlz4", (void 0)))
+1622663398960	Marionette	INFO	Listening on port 37069
+1622663399002	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://static-exp1.licdn.com/sc/h/cx3rkyja24jm23u1gl9tvtke6, line 3713: unreachable code after return statement
+JavaScript warning: https://static-exp1.licdn.com/sc/h/1mdq9lxo0f97xlwcxotgjow4j, line 6: unreachable code after return statement
+JavaScript warning: https://static-exp1.licdn.com/sc/h/dwx2czm7c189tqyxig35e5adm, line 6: unreachable code after return statement
+JavaScript warning: https://static-exp1.licdn.com/sc/h/dwx2czm7c189tqyxig35e5adm, line 6: unreachable code after return statement
+JavaScript warning: https://static-exp1.licdn.com/sc/h/5vlzhyjcpd1dcglla92tl6mtr, line 6: unreachable code after return statement
+JavaScript warning: https://static-exp1.licdn.com/sc/h/5w7qbyexmw5ypfy6tsh1vlabf, line 6: unreachable code after return statement
+JavaScript warning: https://static-exp1.licdn.com/sc/h/64flwq81kt46kidawcub6je7g, line 6: unreachable code after return statement
+JavaScript warning: https://static-exp1.licdn.com/sc/h/cx3rkyja24jm23u1gl9tvtke6, line 3713: unreachable code after return statement
+JavaScript warning: https://static-exp1.licdn.com/sc/h/1a3i8sb3tqf3uncnl48je7no5, line 6: unreachable code after return statement
+JavaScript warning: https://static-exp1.licdn.com/sc/h/1a3i8sb3tqf3uncnl48je7no5, line 6: unreachable code after return statement
+JavaScript warning: https://static-exp1.licdn.com/sc/h/5w7qbyexmw5ypfy6tsh1vlabf, line 6: unreachable code after return statement
+JavaScript warning: https://static-exp1.licdn.com/sc/h/64flwq81kt46kidawcub6je7g, line 6: unreachable code after return statement
+1622663499983	Marionette	INFO	Stopped listening on port 37069
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1622663613556	geckodriver	INFO	Listening on 127.0.0.1:35463
+1622663613620	mozrunner::runner	INFO	Running command: "/usr/bin/firefox-developer-edition" "--marionette" "--no-sandbox" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofilexYQNUm"
+
+(firefoxdeveloperedition:178410): Gtk-WARNING **: 01:23:33.652: Locale not supported by C library.
+	Using the fallback 'C' locale.
+1622663615144	Marionette	INFO	Marionette enabled
+
+(firefoxdeveloperedition:178410): Gtk-WARNING **: 01:23:35.188: Theme directory 16x16/panel of theme Mkos-Big-Sur-Night has no size field
+
+
+(firefoxdeveloperedition:178410): Gtk-WARNING **: 01:23:35.190: Theme directory 16x16@2x/places of theme Mkos-Big-Sur-Night has no size field
+
+
+(firefoxdeveloperedition:178410): Gtk-WARNING **: 01:23:35.192: Theme directory 24x24/apps of theme Mkos-Big-Sur-Night has no size field
+
+
+(firefoxdeveloperedition:178410): Gtk-WARNING **: 01:23:35.194: Theme directory 24x24@2x/panel of theme Mkos-Big-Sur-Night has no size field
+
+
+(firefoxdeveloperedition:178410): Gtk-WARNING **: 01:23:35.195: Theme directory 24x24@2x/panel of theme Mkos-Big-Sur-Night has no size field
+
+
+(/usr/lib/firefox-developer-edition/firefox:178515): Gtk-WARNING **: 01:23:35.507: Locale not supported by C library.
+	Using the fallback 'C' locale.
+
+(/usr/lib/firefox-developer-edition/firefox:178598): Gtk-WARNING **: 01:23:37.304: Locale not supported by C library.
+	Using the fallback 'C' locale.
+
+(/usr/lib/firefox-developer-edition/firefox:178667): Gtk-WARNING **: 01:23:38.664: Locale not supported by C library.
+	Using the fallback 'C' locale.
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofilexYQNUm/search.json.mozlz4", (void 0)))
+1622663619620	Marionette	INFO	Listening on port 42997
+1622663619680	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://static-exp1.licdn.com/sc/h/cx3rkyja24jm23u1gl9tvtke6, line 3713: unreachable code after return statement
+JavaScript warning: https://static-exp1.licdn.com/sc/h/1mdq9lxo0f97xlwcxotgjow4j, line 6: unreachable code after return statement
+JavaScript warning: https://static-exp1.licdn.com/sc/h/dwx2czm7c189tqyxig35e5adm, line 6: unreachable code after return statement
+JavaScript warning: https://static-exp1.licdn.com/sc/h/dwx2czm7c189tqyxig35e5adm, line 6: unreachable code after return statement
+JavaScript warning: https://static-exp1.licdn.com/sc/h/5vlzhyjcpd1dcglla92tl6mtr, line 6: unreachable code after return statement
+JavaScript warning: https://static-exp1.licdn.com/sc/h/5w7qbyexmw5ypfy6tsh1vlabf, line 6: unreachable code after return statement
+JavaScript warning: https://static-exp1.licdn.com/sc/h/64flwq81kt46kidawcub6je7g, line 6: unreachable code after return statement
+JavaScript warning: https://static-exp1.licdn.com/sc/h/cx3rkyja24jm23u1gl9tvtke6, line 3713: unreachable code after return statement
+JavaScript warning: https://static-exp1.licdn.com/sc/h/1a3i8sb3tqf3uncnl48je7no5, line 6: unreachable code after return statement
+JavaScript warning: https://static-exp1.licdn.com/sc/h/1a3i8sb3tqf3uncnl48je7no5, line 6: unreachable code after return statement
+JavaScript warning: https://static-exp1.licdn.com/sc/h/5w7qbyexmw5ypfy6tsh1vlabf, line 6: unreachable code after return statement
+JavaScript warning: https://static-exp1.licdn.com/sc/h/64flwq81kt46kidawcub6je7g, line 6: unreachable code after return statement
+1622663691430	geckodriver	INFO	Listening on 127.0.0.1:44169
+1622663691514	mozrunner::runner	INFO	Running command: "/usr/bin/firefox-developer-edition" "--marionette" "--no-sandbox" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile91wjcK"
+
+(firefoxdeveloperedition:180235): Gtk-WARNING **: 01:24:51.566: Locale not supported by C library.
+	Using the fallback 'C' locale.
+1622663693024	Marionette	INFO	Marionette enabled
+
+(firefoxdeveloperedition:180235): Gtk-WARNING **: 01:24:53.062: Theme directory 16x16/panel of theme Mkos-Big-Sur-Night has no size field
+
+
+(firefoxdeveloperedition:180235): Gtk-WARNING **: 01:24:53.064: Theme directory 16x16@2x/places of theme Mkos-Big-Sur-Night has no size field
+
+
+(firefoxdeveloperedition:180235): Gtk-WARNING **: 01:24:53.066: Theme directory 24x24/apps of theme Mkos-Big-Sur-Night has no size field
+
+
+(firefoxdeveloperedition:180235): Gtk-WARNING **: 01:24:53.068: Theme directory 24x24@2x/panel of theme Mkos-Big-Sur-Night has no size field
+
+
+(firefoxdeveloperedition:180235): Gtk-WARNING **: 01:24:53.068: Theme directory 24x24@2x/panel of theme Mkos-Big-Sur-Night has no size field
+
+
+(/usr/lib/firefox-developer-edition/firefox:180371): Gtk-WARNING **: 01:24:53.366: Locale not supported by C library.
+	Using the fallback 'C' locale.
+1622663693792	Marionette	INFO	Stopped listening on port 42997
+
+(/usr/lib/firefox-developer-edition/firefox:180414): Gtk-WARNING **: 01:24:55.373: Locale not supported by C library.
+	Using the fallback 'C' locale.
+
+(/usr/lib/firefox-developer-edition/firefox:180467): Gtk-WARNING **: 01:24:57.656: Locale not supported by C library.
+	Using the fallback 'C' locale.
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofile91wjcK/search.json.mozlz4", (void 0)))
+1622663698615	Marionette	INFO	Listening on port 33235
+1622663698682	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://static-exp1.licdn.com/sc/h/cx3rkyja24jm23u1gl9tvtke6, line 3713: unreachable code after return statement
+JavaScript warning: https://static-exp1.licdn.com/sc/h/1mdq9lxo0f97xlwcxotgjow4j, line 6: unreachable code after return statement
+JavaScript warning: https://static-exp1.licdn.com/sc/h/dwx2czm7c189tqyxig35e5adm, line 6: unreachable code after return statement
+JavaScript warning: https://static-exp1.licdn.com/sc/h/dwx2czm7c189tqyxig35e5adm, line 6: unreachable code after return statement
+JavaScript warning: https://static-exp1.licdn.com/sc/h/5vlzhyjcpd1dcglla92tl6mtr, line 6: unreachable code after return statement
+JavaScript warning: https://static-exp1.licdn.com/sc/h/5w7qbyexmw5ypfy6tsh1vlabf, line 6: unreachable code after return statement
+JavaScript warning: https://static-exp1.licdn.com/sc/h/64flwq81kt46kidawcub6je7g, line 6: unreachable code after return statement
+JavaScript warning: https://static-exp1.licdn.com/sc/h/cx3rkyja24jm23u1gl9tvtke6, line 3713: unreachable code after return statement
+JavaScript warning: https://static-exp1.licdn.com/sc/h/1a3i8sb3tqf3uncnl48je7no5, line 6: unreachable code after return statement
+JavaScript warning: https://static-exp1.licdn.com/sc/h/1a3i8sb3tqf3uncnl48je7no5, line 6: unreachable code after return statement
+JavaScript warning: https://static-exp1.licdn.com/sc/h/5w7qbyexmw5ypfy6tsh1vlabf, line 6: unreachable code after return statement
+JavaScript warning: https://static-exp1.licdn.com/sc/h/64flwq81kt46kidawcub6je7g, line 6: unreachable code after return statement
+
+(/usr/lib/firefox-developer-edition/firefox:181843): Gtk-WARNING **: 01:25:57.087: Locale not supported by C library.
+	Using the fallback 'C' locale.
+JavaScript error: https://cdn.ampproject.org/rtv/012105242203000/amp4ads-v0.mjs, line 2: Error: Failed to load: https://tpc.googlesyndication.com/simgad/5327403663038176037?sqp=4sqPyQQrQikqJwhfEAEdAAC0QiABKAEwCTgDQPCTCUgAUAFYAWBfcAJ4AcUBLbKdPg&rs=AOga4qkb6W0eU1K1L5fulSS0DvAOr4If4A​​​
+JavaScript error: https://cdn.ampproject.org/rtv/012105242203000/amp4ads-v0.mjs, line 2: Error: Failed to load: https://tpc.googlesyndication.com/simgad/5327403663038176037?sqp=4sqPyQQrQikqJwhfEAEdAAC0QiABKAEwCTgDQPCTCUgAUAFYAWBfcAJ4AcUBLbKdPg&rs=AOga4qkb6W0eU1K1L5fulSS0DvAOr4If4A​​​
+JavaScript error: https://cdn.ampproject.org/rtv/012105242203000/amp4ads-v0.mjs, line 2: Error: Failed to load: https://tpc.googlesyndication.com/simgad/5327403663038176037?sqp=4sqPyQQrQikqJwhfEAEdAAC0QiABKAEwCTgDQPCTCUgAUAFYAWBfcAJ4AcUBLbKdPg&rs=AOga4qkb6W0eU1K1L5fulSS0DvAOr4If4A​​​
+JavaScript error: https://cdn.ampproject.org/rtv/012105242203000/amp4ads-v0.mjs, line 2: Error: Failed to load: https://tpc.googlesyndication.com/simgad/5327403663038176037?sqp=4sqPyQQrQikqJwhfEAEdAAC0QiABKAEwCTgDQPCTCUgAUAFYAWBfcAJ4AcUBLbKdPg&rs=AOga4qkb6W0eU1K1L5fulSS0DvAOr4If4A​​​
+JavaScript error: https://cdn.ampproject.org/rtv/012105242203000/amp4ads-v0.mjs, line 2: Error: Failed to load: https://tpc.googlesyndication.com/simgad/5327403663038176037?sqp=4sqPyQQrQikqJwhfEAEdAAC0QiABKAEwCTgDQPCTCUgAUAFYAWBfcAJ4AcUBLbKdPg&rs=AOga4qkb6W0eU1K1L5fulSS0DvAOr4If4A​​​
+JavaScript error: https://cdn.ampproject.org/rtv/012105242203000/amp4ads-v0.mjs, line 2: Error: Failed to load: https://tpc.googlesyndication.com/simgad/5327403663038176037?sqp=4sqPyQQrQikqJwhfEAEdAAC0QiABKAEwCTgDQPCTCUgAUAFYAWBfcAJ4AcUBLbKdPg&rs=AOga4qkb6W0eU1K1L5fulSS0DvAOr4If4A​​​
+JavaScript error: https://cdn.ampproject.org/rtv/012105242203000/amp4ads-v0.mjs, line 2: Error: Failed to load: https://tpc.googlesyndication.com/simgad/5327403663038176037?sqp=4sqPyQQrQikqJwhfEAEdAAC0QiABKAEwCTgDQPCTCUgAUAFYAWBfcAJ4AcUBLbKdPg&rs=AOga4qkb6W0eU1K1L5fulSS0DvAOr4If4A​​​
+JavaScript error: https://cdn.ampproject.org/rtv/012105242203000/amp4ads-v0.mjs, line 2: Error: Failed to load: https://tpc.googlesyndication.com/simgad/5327403663038176037?sqp=4sqPyQQrQikqJwhfEAEdAAC0QiABKAEwCTgDQPCTCUgAUAFYAWBfcAJ4AcUBLbKdPg&rs=AOga4qkb6W0eU1K1L5fulSS0DvAOr4If4A​​​
+JavaScript error: https://cdn.ampproject.org/rtv/012105242203000/amp4ads-v0.mjs, line 2: Error: Failed to load: https://tpc.googlesyndication.com/simgad/5327403663038176037?sqp=4sqPyQQrQikqJwhfEAEdAAC0QiABKAEwCTgDQPCTCUgAUAFYAWBfcAJ4AcUBLbKdPg&rs=AOga4qkb6W0eU1K1L5fulSS0DvAOr4If4A​​​
+JavaScript error: https://cdn.ampproject.org/rtv/012105242203000/amp4ads-v0.mjs, line 2: Error: Failed to load: https://tpc.googlesyndication.com/simgad/5327403663038176037?sqp=4sqPyQQrQikqJwhfEAEdAAC0QiABKAEwCTgDQPCTCUgAUAFYAWBfcAJ4AcUBLbKdPg&rs=AOga4qkb6W0eU1K1L5fulSS0DvAOr4If4A​​​
+JavaScript error: https://cdn.ampproject.org/rtv/012105242203000/amp4ads-v0.mjs, line 2: Error: Failed to load: https://tpc.googlesyndication.com/simgad/5327403663038176037?sqp=4sqPyQQrQikqJwhfEAEdAAC0QiABKAEwCTgDQPCTCUgAUAFYAWBfcAJ4AcUBLbKdPg&rs=AOga4qkb6W0eU1K1L5fulSS0DvAOr4If4A​​​
+JavaScript error: https://cdn.ampproject.org/rtv/012105242203000/amp4ads-v0.mjs, line 2: Error: Failed to load: https://tpc.googlesyndication.com/simgad/5327403663038176037?sqp=4sqPyQQrQikqJwhfEAEdAAC0QiABKAEwCTgDQPCTCUgAUAFYAWBfcAJ4AcUBLbKdPg&rs=AOga4qkb6W0eU1K1L5fulSS0DvAOr4If4A​​​
+JavaScript error: https://cdn.ampproject.org/rtv/012105242203000/amp4ads-v0.mjs, line 2: Error: Failed to load: https://tpc.googlesyndication.com/simgad/5327403663038176037?sqp=4sqPyQQrQikqJwhfEAEdAAC0QiABKAEwCTgDQPCTCUgAUAFYAWBfcAJ4AcUBLbKdPg&rs=AOga4qkb6W0eU1K1L5fulSS0DvAOr4If4A​​​
+JavaScript error: https://cdn.ampproject.org/rtv/012105242203000/amp4ads-v0.mjs, line 2: Error: Failed to load: https://tpc.googlesyndication.com/simgad/5327403663038176037?sqp=4sqPyQQrQikqJwhfEAEdAAC0QiABKAEwCTgDQPCTCUgAUAFYAWBfcAJ4AcUBLbKdPg&rs=AOga4qkb6W0eU1K1L5fulSS0DvAOr4If4A​​​
+JavaScript error: https://cdn.ampproject.org/rtv/012105242203000/amp4ads-v0.mjs, line 2: Error: Failed to load: https://tpc.googlesyndication.com/simgad/5327403663038176037?sqp=4sqPyQQrQikqJwhfEAEdAAC0QiABKAEwCTgDQPCTCUgAUAFYAWBfcAJ4AcUBLbKdPg&rs=AOga4qkb6W0eU1K1L5fulSS0DvAOr4If4A​​​
+JavaScript error: https://cdn.ampproject.org/rtv/012105242203000/amp4ads-v0.mjs, line 2: Error: Failed to load: https://tpc.googlesyndication.com/simgad/5327403663038176037?sqp=4sqPyQQrQikqJwhfEAEdAAC0QiABKAEwCTgDQPCTCUgAUAFYAWBfcAJ4AcUBLbKdPg&rs=AOga4qkb6W0eU1K1L5fulSS0DvAOr4If4A​​​
+JavaScript error: https://cdn.ampproject.org/rtv/012105242203000/amp4ads-v0.mjs, line 2: Error: Failed to load: https://tpc.googlesyndication.com/simgad/5327403663038176037?sqp=4sqPyQQrQikqJwhfEAEdAAC0QiABKAEwCTgDQPCTCUgAUAFYAWBfcAJ4AcUBLbKdPg&rs=AOga4qkb6W0eU1K1L5fulSS0DvAOr4If4A​​​
+JavaScript error: https://cdn.ampproject.org/rtv/012105242203000/amp4ads-v0.mjs, line 2: Error: Failed to load: https://tpc.googlesyndication.com/simgad/5327403663038176037?sqp=4sqPyQQrQikqJwhfEAEdAAC0QiABKAEwCTgDQPCTCUgAUAFYAWBfcAJ4AcUBLbKdPg&rs=AOga4qkb6W0eU1K1L5fulSS0DvAOr4If4A​​​
+JavaScript error: https://cdn.ampproject.org/rtv/012105242203000/amp4ads-v0.mjs, line 2: Error: Failed to load: https://tpc.googlesyndication.com/simgad/5327403663038176037?sqp=4sqPyQQrQikqJwhfEAEdAAC0QiABKAEwCTgDQPCTCUgAUAFYAWBfcAJ4AcUBLbKdPg&rs=AOga4qkb6W0eU1K1L5fulSS0DvAOr4If4A​​​
+JavaScript error: https://cdn.ampproject.org/rtv/012105242203000/amp4ads-v0.mjs, line 2: Error: Failed to load: https://tpc.googlesyndication.com/simgad/5327403663038176037?sqp=4sqPyQQrQikqJwhfEAEdAAC0QiABKAEwCTgDQPCTCUgAUAFYAWBfcAJ4AcUBLbKdPg&rs=AOga4qkb6W0eU1K1L5fulSS0DvAOr4If4A​​​
+JavaScript error: https://cdn.ampproject.org/rtv/012105242203000/amp4ads-v0.mjs, line 2: Error: Failed to load: https://tpc.googlesyndication.com/simgad/5327403663038176037?sqp=4sqPyQQrQikqJwhfEAEdAAC0QiABKAEwCTgDQPCTCUgAUAFYAWBfcAJ4AcUBLbKdPg&rs=AOga4qkb6W0eU1K1L5fulSS0DvAOr4If4A​​​
+JavaScript error: https://cdn.ampproject.org/rtv/012105242203000/amp4ads-v0.mjs, line 2: Error: Failed to load: https://tpc.googlesyndication.com/simgad/5327403663038176037?sqp=4sqPyQQrQikqJwhfEAEdAAC0QiABKAEwCTgDQPCTCUgAUAFYAWBfcAJ4AcUBLbKdPg&rs=AOga4qkb6W0eU1K1L5fulSS0DvAOr4If4A​​​
+JavaScript error: https://cdn.ampproject.org/rtv/012105242203000/amp4ads-v0.mjs, line 2: Error: Failed to load: https://tpc.googlesyndication.com/simgad/5327403663038176037?sqp=4sqPyQQrQikqJwhfEAEdAAC0QiABKAEwCTgDQPCTCUgAUAFYAWBfcAJ4AcUBLbKdPg&rs=AOga4qkb6W0eU1K1L5fulSS0DvAOr4If4A​​​
+JavaScript error: https://cdn.ampproject.org/rtv/012105242203000/amp4ads-v0.mjs, line 2: Error: Failed to load: https://tpc.googlesyndication.com/simgad/5327403663038176037?sqp=4sqPyQQrQikqJwhfEAEdAAC0QiABKAEwCTgDQPCTCUgAUAFYAWBfcAJ4AcUBLbKdPg&rs=AOga4qkb6W0eU1K1L5fulSS0DvAOr4If4A​​​
+JavaScript error: https://cdn.ampproject.org/rtv/012105242203000/amp4ads-v0.mjs, line 2: Error: Failed to load: https://tpc.googlesyndication.com/simgad/5327403663038176037?sqp=4sqPyQQrQikqJwhfEAEdAAC0QiABKAEwCTgDQPCTCUgAUAFYAWBfcAJ4AcUBLbKdPg&rs=AOga4qkb6W0eU1K1L5fulSS0DvAOr4If4A​​​
+JavaScript error: https://cdn.ampproject.org/rtv/012105242203000/amp4ads-v0.mjs, line 2: Error: Failed to load: https://tpc.googlesyndication.com/simgad/5327403663038176037?sqp=4sqPyQQrQikqJwhfEAEdAAC0QiABKAEwCTgDQPCTCUgAUAFYAWBfcAJ4AcUBLbKdPg&rs=AOga4qkb6W0eU1K1L5fulSS0DvAOr4If4A​​​
+JavaScript error: https://cdn.ampproject.org/rtv/012105242203000/amp4ads-v0.mjs, line 2: Error: Failed to load: https://tpc.googlesyndication.com/simgad/5327403663038176037?sqp=4sqPyQQrQikqJwhfEAEdAAC0QiABKAEwCTgDQPCTCUgAUAFYAWBfcAJ4AcUBLbKdPg&rs=AOga4qkb6W0eU1K1L5fulSS0DvAOr4If4A​​​
+JavaScript error: https://cdn.ampproject.org/rtv/012105242203000/amp4ads-v0.mjs, line 2: Error: Failed to load: https://tpc.googlesyndication.com/simgad/5327403663038176037?sqp=4sqPyQQrQikqJwhfEAEdAAC0QiABKAEwCTgDQPCTCUgAUAFYAWBfcAJ4AcUBLbKdPg&rs=AOga4qkb6W0eU1K1L5fulSS0DvAOr4If4A​​​
+JavaScript warning: https://static-exp1.licdn.com/sc/h/5w7qbyexmw5ypfy6tsh1vlabf, line 6: unreachable code after return statement
+JavaScript error: resource://devtools/server/actors/network-monitor/network-event-actor.js, line 108: Error: Got a request https://static-exp1.licdn.com/sc/h/6rdfz2v5fqc9asqrfur9zpcva without a browsingContextID set
+JavaScript error: resource://devtools/server/actors/network-monitor/network-event-actor.js, line 108: Error: Got a request https://static-exp1.licdn.com/sc/h/2xkj5wmotlb8m2ul4fklh4mck without a browsingContextID set
+JavaScript error: resource://devtools/server/actors/network-monitor/network-event-actor.js, line 108: Error: Got a request https://static-exp1.licdn.com/sc/h/31q2w57z8adc8sloy2pqcty2s without a browsingContextID set
+JavaScript error: resource://devtools/server/actors/network-monitor/network-event-actor.js, line 108: Error: Got a request https://static-exp1.licdn.com/sc/h/31q2w57z8adc8sloy2pqcty2s without a browsingContextID set
+1622664067838	geckodriver	INFO	Listening on 127.0.0.1:59267
+1622664068923	mozrunner::runner	INFO	Running command: "/usr/bin/firefox-developer-edition" "--marionette" "--no-sandbox" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofilede6XaJ"
+
+(firefoxdeveloperedition:186566): Gtk-WARNING **: 01:31:08.962: Locale not supported by C library.
+	Using the fallback 'C' locale.
+1622664069655	Marionette	INFO	Marionette enabled
+
+(firefoxdeveloperedition:186566): Gtk-WARNING **: 01:31:09.684: Theme directory 16x16/panel of theme Mkos-Big-Sur-Night has no size field
+
+
+(firefoxdeveloperedition:186566): Gtk-WARNING **: 01:31:09.686: Theme directory 16x16@2x/places of theme Mkos-Big-Sur-Night has no size field
+
+
+(firefoxdeveloperedition:186566): Gtk-WARNING **: 01:31:09.687: Theme directory 24x24/apps of theme Mkos-Big-Sur-Night has no size field
+
+
+(firefoxdeveloperedition:186566): Gtk-WARNING **: 01:31:09.689: Theme directory 24x24@2x/panel of theme Mkos-Big-Sur-Night has no size field
+
+
+(firefoxdeveloperedition:186566): Gtk-WARNING **: 01:31:09.689: Theme directory 24x24@2x/panel of theme Mkos-Big-Sur-Night has no size field
+
+
+(/usr/lib/firefox-developer-edition/firefox:186672): Gtk-WARNING **: 01:31:09.946: Locale not supported by C library.
+	Using the fallback 'C' locale.
+
+(/usr/lib/firefox-developer-edition/firefox:186714): Gtk-WARNING **: 01:31:11.118: Locale not supported by C library.
+	Using the fallback 'C' locale.
+
+(/usr/lib/firefox-developer-edition/firefox:186763): Gtk-WARNING **: 01:31:12.404: Locale not supported by C library.
+	Using the fallback 'C' locale.
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofilede6XaJ/search.json.mozlz4", (void 0)))
+1622664073999	Marionette	INFO	Listening on port 39697
+1622664074088	Marionette	WARN	TLS certificate errors will be ignored for this session
+1622664075961	Marionette	INFO	Stopped listening on port 33235
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+JavaScript warning: https://static-exp1.licdn.com/sc/h/cx3rkyja24jm23u1gl9tvtke6, line 3713: unreachable code after return statement
+JavaScript warning: https://static-exp1.licdn.com/sc/h/1mdq9lxo0f97xlwcxotgjow4j, line 6: unreachable code after return statement
+JavaScript warning: https://static-exp1.licdn.com/sc/h/dwx2czm7c189tqyxig35e5adm, line 6: unreachable code after return statement
+JavaScript warning: https://static-exp1.licdn.com/sc/h/dwx2czm7c189tqyxig35e5adm, line 6: unreachable code after return statement
+JavaScript warning: https://static-exp1.licdn.com/sc/h/5vlzhyjcpd1dcglla92tl6mtr, line 6: unreachable code after return statement
+JavaScript warning: https://static-exp1.licdn.com/sc/h/5w7qbyexmw5ypfy6tsh1vlabf, line 6: unreachable code after return statement
+JavaScript warning: https://static-exp1.licdn.com/sc/h/64flwq81kt46kidawcub6je7g, line 6: unreachable code after return statement
+JavaScript warning: https://static-exp1.licdn.com/sc/h/cx3rkyja24jm23u1gl9tvtke6, line 3713: unreachable code after return statement
+JavaScript warning: https://static-exp1.licdn.com/sc/h/1a3i8sb3tqf3uncnl48je7no5, line 6: unreachable code after return statement
+JavaScript warning: https://static-exp1.licdn.com/sc/h/1a3i8sb3tqf3uncnl48je7no5, line 6: unreachable code after return statement
+JavaScript warning: https://static-exp1.licdn.com/sc/h/5w7qbyexmw5ypfy6tsh1vlabf, line 6: unreachable code after return statement
+JavaScript warning: https://static-exp1.licdn.com/sc/h/64flwq81kt46kidawcub6je7g, line 6: unreachable code after return statement
+1622664118564	geckodriver	INFO	Listening on 127.0.0.1:50421
+1622664118652	mozrunner::runner	INFO	Running command: "/usr/bin/firefox-developer-edition" "--marionette" "--no-sandbox" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileelUOVy"
+
+(firefoxdeveloperedition:187868): Gtk-WARNING **: 01:31:58.693: Locale not supported by C library.
+	Using the fallback 'C' locale.
+1622664119831	Marionette	INFO	Marionette enabled
+
+(firefoxdeveloperedition:187868): Gtk-WARNING **: 01:31:59.906: Theme directory 16x16/panel of theme Mkos-Big-Sur-Night has no size field
+
+
+(firefoxdeveloperedition:187868): Gtk-WARNING **: 01:31:59.910: Theme directory 16x16@2x/places of theme Mkos-Big-Sur-Night has no size field
+
+
+(firefoxdeveloperedition:187868): Gtk-WARNING **: 01:31:59.914: Theme directory 24x24/apps of theme Mkos-Big-Sur-Night has no size field
+
+
+(firefoxdeveloperedition:187868): Gtk-WARNING **: 01:31:59.917: Theme directory 24x24@2x/panel of theme Mkos-Big-Sur-Night has no size field
+
+
+(firefoxdeveloperedition:187868): Gtk-WARNING **: 01:31:59.918: Theme directory 24x24@2x/panel of theme Mkos-Big-Sur-Night has no size field
+
+
+(/usr/lib/firefox-developer-edition/firefox:188034): Gtk-WARNING **: 01:32:00.399: Locale not supported by C library.
+	Using the fallback 'C' locale.
+
+(/usr/lib/firefox-developer-edition/firefox:188074): Gtk-WARNING **: 01:32:02.459: Locale not supported by C library.
+	Using the fallback 'C' locale.
+1622664123256	Marionette	INFO	Stopped listening on port 39697
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+(/usr/lib/firefox-developer-edition/firefox:188148): Gtk-WARNING **: 01:32:04.102: Locale not supported by C library.
+	Using the fallback 'C' locale.
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofileelUOVy/search.json.mozlz4", (void 0)))
+1622664125682	Marionette	INFO	Listening on port 35165
+1622664125811	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://static-exp1.licdn.com/sc/h/wayxpgwvsgepl9uw11my6hz4, line 3713: unreachable code after return statement
+JavaScript warning: https://static-exp1.licdn.com/sc/h/h48rvhirj1kgtcia3od2wo79, line 6: unreachable code after return statement
+JavaScript warning: https://static-exp1.licdn.com/sc/h/5iajfmhgp12r4jtcgvvwlrk5s, line 6: unreachable code after return statement
+JavaScript warning: https://static-exp1.licdn.com/sc/h/5iajfmhgp12r4jtcgvvwlrk5s, line 6: unreachable code after return statement
+JavaScript warning: https://static-exp1.licdn.com/sc/h/5vlzhyjcpd1dcglla92tl6mtr, line 6: unreachable code after return statement
+JavaScript warning: https://static-exp1.licdn.com/sc/h/5w7qbyexmw5ypfy6tsh1vlabf, line 6: unreachable code after return statement
+JavaScript warning: https://static-exp1.licdn.com/sc/h/64flwq81kt46kidawcub6je7g, line 6: unreachable code after return statement
+JavaScript warning: https://static-exp1.licdn.com/sc/h/wayxpgwvsgepl9uw11my6hz4, line 3713: unreachable code after return statement
+JavaScript warning: https://static-exp1.licdn.com/sc/h/7uyzdwy6p7p02bdx223r956ky, line 6: unreachable code after return statement
+JavaScript warning: https://static-exp1.licdn.com/sc/h/7uyzdwy6p7p02bdx223r956ky, line 6: unreachable code after return statement
+JavaScript warning: https://static-exp1.licdn.com/sc/h/5w7qbyexmw5ypfy6tsh1vlabf, line 6: unreachable code after return statement
+JavaScript warning: https://static-exp1.licdn.com/sc/h/64flwq81kt46kidawcub6je7g, line 6: unreachable code after return statement
+1622664168755	geckodriver	INFO	Listening on 127.0.0.1:45105
+1622664168831	mozrunner::runner	INFO	Running command: "/usr/bin/firefox-developer-edition" "--marionette" "--no-sandbox" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofilesmqyzy"
+
+(firefoxdeveloperedition:189295): Gtk-WARNING **: 01:32:48.865: Locale not supported by C library.
+	Using the fallback 'C' locale.
+1622664170441	Marionette	INFO	Marionette enabled
+
+(firefoxdeveloperedition:189295): Gtk-WARNING **: 01:32:50.475: Theme directory 16x16/panel of theme Mkos-Big-Sur-Night has no size field
+
+
+(firefoxdeveloperedition:189295): Gtk-WARNING **: 01:32:50.477: Theme directory 16x16@2x/places of theme Mkos-Big-Sur-Night has no size field
+
+
+(firefoxdeveloperedition:189295): Gtk-WARNING **: 01:32:50.478: Theme directory 24x24/apps of theme Mkos-Big-Sur-Night has no size field
+
+
+(firefoxdeveloperedition:189295): Gtk-WARNING **: 01:32:50.480: Theme directory 24x24@2x/panel of theme Mkos-Big-Sur-Night has no size field
+
+
+(firefoxdeveloperedition:189295): Gtk-WARNING **: 01:32:50.480: Theme directory 24x24@2x/panel of theme Mkos-Big-Sur-Night has no size field
+
+
+(/usr/lib/firefox-developer-edition/firefox:189416): Gtk-WARNING **: 01:32:51.114: Locale not supported by C library.
+	Using the fallback 'C' locale.
+1622664171284	Marionette	INFO	Stopped listening on port 35165
+
+(/usr/lib/firefox-developer-edition/firefox:189531): Gtk-WARNING **: 01:32:53.385: Locale not supported by C library.
+	Using the fallback 'C' locale.
+
+(/usr/lib/firefox-developer-edition/firefox:189573): Gtk-WARNING **: 01:32:54.665: Locale not supported by C library.
+	Using the fallback 'C' locale.
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofilesmqyzy/search.json.mozlz4", (void 0)))
+1622664175549	Marionette	INFO	Listening on port 44451
+1622664175575	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://static-exp1.licdn.com/sc/h/cx3rkyja24jm23u1gl9tvtke6, line 3713: unreachable code after return statement
+JavaScript warning: https://static-exp1.licdn.com/sc/h/1mdq9lxo0f97xlwcxotgjow4j, line 6: unreachable code after return statement
+JavaScript warning: https://static-exp1.licdn.com/sc/h/dwx2czm7c189tqyxig35e5adm, line 6: unreachable code after return statement
+JavaScript warning: https://static-exp1.licdn.com/sc/h/dwx2czm7c189tqyxig35e5adm, line 6: unreachable code after return statement
+JavaScript warning: https://static-exp1.licdn.com/sc/h/5vlzhyjcpd1dcglla92tl6mtr, line 6: unreachable code after return statement
+JavaScript warning: https://static-exp1.licdn.com/sc/h/5w7qbyexmw5ypfy6tsh1vlabf, line 6: unreachable code after return statement
+JavaScript warning: https://static-exp1.licdn.com/sc/h/64flwq81kt46kidawcub6je7g, line 6: unreachable code after return statement
+JavaScript warning: https://static-exp1.licdn.com/sc/h/wayxpgwvsgepl9uw11my6hz4, line 3713: unreachable code after return statement
+JavaScript warning: https://static-exp1.licdn.com/sc/h/7uyzdwy6p7p02bdx223r956ky, line 6: unreachable code after return statement
+JavaScript warning: https://static-exp1.licdn.com/sc/h/7uyzdwy6p7p02bdx223r956ky, line 6: unreachable code after return statement
+JavaScript warning: https://static-exp1.licdn.com/sc/h/5w7qbyexmw5ypfy6tsh1vlabf, line 6: unreachable code after return statement
+JavaScript warning: https://static-exp1.licdn.com/sc/h/64flwq81kt46kidawcub6je7g, line 6: unreachable code after return statement
+1622664203547	Marionette	INFO	Stopped listening on port 44451
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1622714437663	geckodriver	INFO	Listening on 127.0.0.1:57009
+1622714437732	mozrunner::runner	INFO	Running command: "/usr/bin/firefox-developer-edition" "--marionette" "--no-sandbox" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileLTvIq6"
+
+(firefoxdeveloperedition:198121): Gtk-WARNING **: 15:30:37.768: Locale not supported by C library.
+	Using the fallback 'C' locale.
+1622714439132	Marionette	INFO	Marionette enabled
+
+(firefoxdeveloperedition:198121): Gtk-WARNING **: 15:30:39.208: Theme directory 16x16/panel of theme Mkos-Big-Sur-Night has no size field
+
+
+(firefoxdeveloperedition:198121): Gtk-WARNING **: 15:30:39.210: Theme directory 16x16@2x/places of theme Mkos-Big-Sur-Night has no size field
+
+
+(firefoxdeveloperedition:198121): Gtk-WARNING **: 15:30:39.212: Theme directory 24x24/apps of theme Mkos-Big-Sur-Night has no size field
+
+
+(firefoxdeveloperedition:198121): Gtk-WARNING **: 15:30:39.214: Theme directory 24x24@2x/panel of theme Mkos-Big-Sur-Night has no size field
+
+
+(firefoxdeveloperedition:198121): Gtk-WARNING **: 15:30:39.214: Theme directory 24x24@2x/panel of theme Mkos-Big-Sur-Night has no size field
+
+
+(/usr/lib/firefox-developer-edition/firefox:198282): Gtk-WARNING **: 15:30:39.595: Locale not supported by C library.
+	Using the fallback 'C' locale.
+
+(/usr/lib/firefox-developer-edition/firefox:198312): Gtk-WARNING **: 15:30:41.512: Locale not supported by C library.
+	Using the fallback 'C' locale.
+
+(/usr/lib/firefox-developer-edition/firefox:198357): Gtk-WARNING **: 15:30:43.176: Locale not supported by C library.
+	Using the fallback 'C' locale.
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofileLTvIq6/search.json.mozlz4", (void 0)))
+1622714445476	Marionette	INFO	Listening on port 34453
+1622714445584	Marionette	WARN	TLS certificate errors will be ignored for this session
+1622714449508	Marionette	INFO	Stopped listening on port 34453
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1622714608120	geckodriver	INFO	Listening on 127.0.0.1:43851
+1622714608189	mozrunner::runner	INFO	Running command: "/usr/bin/firefox-developer-edition" "--marionette" "--no-sandbox" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileFScv6u"
+
+(firefoxdeveloperedition:200060): Gtk-WARNING **: 15:33:28.228: Locale not supported by C library.
+	Using the fallback 'C' locale.
+1622714609389	Marionette	INFO	Marionette enabled
+
+(firefoxdeveloperedition:200060): Gtk-WARNING **: 15:33:29.426: Theme directory 16x16/panel of theme Mkos-Big-Sur-Night has no size field
+
+
+(firefoxdeveloperedition:200060): Gtk-WARNING **: 15:33:29.427: Theme directory 16x16@2x/places of theme Mkos-Big-Sur-Night has no size field
+
+
+(firefoxdeveloperedition:200060): Gtk-WARNING **: 15:33:29.429: Theme directory 24x24/apps of theme Mkos-Big-Sur-Night has no size field
+
+
+(firefoxdeveloperedition:200060): Gtk-WARNING **: 15:33:29.431: Theme directory 24x24@2x/panel of theme Mkos-Big-Sur-Night has no size field
+
+
+(firefoxdeveloperedition:200060): Gtk-WARNING **: 15:33:29.431: Theme directory 24x24@2x/panel of theme Mkos-Big-Sur-Night has no size field
+
+
+(/usr/lib/firefox-developer-edition/firefox:200213): Gtk-WARNING **: 15:33:29.758: Locale not supported by C library.
+	Using the fallback 'C' locale.
+
+(/usr/lib/firefox-developer-edition/firefox:200244): Gtk-WARNING **: 15:33:31.159: Locale not supported by C library.
+	Using the fallback 'C' locale.
+
+(/usr/lib/firefox-developer-edition/firefox:200299): Gtk-WARNING **: 15:33:32.626: Locale not supported by C library.
+	Using the fallback 'C' locale.
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofileFScv6u/search.json.mozlz4", (void 0)))
+1622714613936	Marionette	INFO	Listening on port 46037
+1622714614020	Marionette	WARN	TLS certificate errors will be ignored for this session
+1622714780839	Marionette	INFO	Stopped listening on port 46037
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1622714788883	geckodriver	INFO	Listening on 127.0.0.1:45027
+1622714788973	mozrunner::runner	INFO	Running command: "/usr/bin/firefox-developer-edition" "--marionette" "--no-sandbox" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofilegVmOHH"
+
+(firefoxdeveloperedition:202508): Gtk-WARNING **: 15:36:29.060: Locale not supported by C library.
+	Using the fallback 'C' locale.
+1622714790291	Marionette	INFO	Marionette enabled
+
+(firefoxdeveloperedition:202508): Gtk-WARNING **: 15:36:30.326: Theme directory 16x16/panel of theme Mkos-Big-Sur-Night has no size field
+
+
+(firefoxdeveloperedition:202508): Gtk-WARNING **: 15:36:30.328: Theme directory 16x16@2x/places of theme Mkos-Big-Sur-Night has no size field
+
+
+(firefoxdeveloperedition:202508): Gtk-WARNING **: 15:36:30.330: Theme directory 24x24/apps of theme Mkos-Big-Sur-Night has no size field
+
+
+(firefoxdeveloperedition:202508): Gtk-WARNING **: 15:36:30.331: Theme directory 24x24@2x/panel of theme Mkos-Big-Sur-Night has no size field
+
+
+(firefoxdeveloperedition:202508): Gtk-WARNING **: 15:36:30.332: Theme directory 24x24@2x/panel of theme Mkos-Big-Sur-Night has no size field
+
+
+(/usr/lib/firefox-developer-edition/firefox:202659): Gtk-WARNING **: 15:36:30.678: Locale not supported by C library.
+	Using the fallback 'C' locale.
+
+(/usr/lib/firefox-developer-edition/firefox:202696): Gtk-WARNING **: 15:36:32.372: Locale not supported by C library.
+	Using the fallback 'C' locale.
+
+(/usr/lib/firefox-developer-edition/firefox:202739): Gtk-WARNING **: 15:36:34.040: Locale not supported by C library.
+	Using the fallback 'C' locale.
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofilegVmOHH/search.json.mozlz4", (void 0)))
+1622714795683	Marionette	INFO	Listening on port 45237
+1622714795727	Marionette	WARN	TLS certificate errors will be ignored for this session
+1622714839350	Marionette	INFO	Stopped listening on port 45237
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1622714863848	geckodriver	INFO	Listening on 127.0.0.1:41125
+1622714863931	mozrunner::runner	INFO	Running command: "/usr/bin/firefox-developer-edition" "--marionette" "--no-sandbox" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofilexTX5BV"
+
+(firefoxdeveloperedition:203886): Gtk-WARNING **: 15:37:43.986: Locale not supported by C library.
+	Using the fallback 'C' locale.
+1622714865248	Marionette	INFO	Marionette enabled
+
+(firefoxdeveloperedition:203886): Gtk-WARNING **: 15:37:45.316: Theme directory 16x16/panel of theme Mkos-Big-Sur-Night has no size field
+
+
+(firefoxdeveloperedition:203886): Gtk-WARNING **: 15:37:45.319: Theme directory 16x16@2x/places of theme Mkos-Big-Sur-Night has no size field
+
+
+(firefoxdeveloperedition:203886): Gtk-WARNING **: 15:37:45.322: Theme directory 24x24/apps of theme Mkos-Big-Sur-Night has no size field
+
+
+(firefoxdeveloperedition:203886): Gtk-WARNING **: 15:37:45.325: Theme directory 24x24@2x/panel of theme Mkos-Big-Sur-Night has no size field
+
+
+(firefoxdeveloperedition:203886): Gtk-WARNING **: 15:37:45.325: Theme directory 24x24@2x/panel of theme Mkos-Big-Sur-Night has no size field
+
+
+(/usr/lib/firefox-developer-edition/firefox:204003): Gtk-WARNING **: 15:37:45.774: Locale not supported by C library.
+	Using the fallback 'C' locale.
+
+(/usr/lib/firefox-developer-edition/firefox:204037): Gtk-WARNING **: 15:37:47.664: Locale not supported by C library.
+	Using the fallback 'C' locale.
+
+(/usr/lib/firefox-developer-edition/firefox:204122): Gtk-WARNING **: 15:37:49.838: Locale not supported by C library.
+	Using the fallback 'C' locale.
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofilexTX5BV/search.json.mozlz4", (void 0)))
+1622714870927	Marionette	INFO	Listening on port 42599
+1622714870990	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://static-exp1.licdn.com/sc/h/qmebgjkmazigje84r2wiytw5, line 3713: unreachable code after return statement
+JavaScript warning: https://static-exp1.licdn.com/sc/h/djcy7p7bebcfi6ta39lkf81bt, line 6: unreachable code after return statement
+JavaScript warning: https://static-exp1.licdn.com/sc/h/3vtcykcztk1b4k6jtn6z3gd66, line 6: unreachable code after return statement
+JavaScript warning: https://static-exp1.licdn.com/sc/h/3vtcykcztk1b4k6jtn6z3gd66, line 6: unreachable code after return statement
+JavaScript warning: https://static-exp1.licdn.com/sc/h/wo39hf3k1imnt3ibfw2xykgn, line 6: unreachable code after return statement
+JavaScript warning: https://static-exp1.licdn.com/sc/h/5w7qbyexmw5ypfy6tsh1vlabf, line 6: unreachable code after return statement
+JavaScript warning: https://static-exp1.licdn.com/sc/h/64flwq81kt46kidawcub6je7g, line 6: unreachable code after return statement
+1622714886528	Marionette	INFO	Stopped listening on port 42599
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1622714925457	geckodriver	INFO	Listening on 127.0.0.1:57779
+1622714925521	mozrunner::runner	INFO	Running command: "/usr/bin/firefox-developer-edition" "--marionette" "--no-sandbox" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofilefejWsI"
+
+(firefoxdeveloperedition:205021): Gtk-WARNING **: 15:38:45.554: Locale not supported by C library.
+	Using the fallback 'C' locale.
+1622714926787	Marionette	INFO	Marionette enabled
+
+(firefoxdeveloperedition:205021): Gtk-WARNING **: 15:38:46.836: Theme directory 16x16/panel of theme Mkos-Big-Sur-Night has no size field
+
+
+(firefoxdeveloperedition:205021): Gtk-WARNING **: 15:38:46.838: Theme directory 16x16@2x/places of theme Mkos-Big-Sur-Night has no size field
+
+
+(firefoxdeveloperedition:205021): Gtk-WARNING **: 15:38:46.840: Theme directory 24x24/apps of theme Mkos-Big-Sur-Night has no size field
+
+
+(firefoxdeveloperedition:205021): Gtk-WARNING **: 15:38:46.841: Theme directory 24x24@2x/panel of theme Mkos-Big-Sur-Night has no size field
+
+
+(firefoxdeveloperedition:205021): Gtk-WARNING **: 15:38:46.842: Theme directory 24x24@2x/panel of theme Mkos-Big-Sur-Night has no size field
+
+
+(/usr/lib/firefox-developer-edition/firefox:205175): Gtk-WARNING **: 15:38:47.278: Locale not supported by C library.
+	Using the fallback 'C' locale.
+
+(/usr/lib/firefox-developer-edition/firefox:205210): Gtk-WARNING **: 15:38:48.985: Locale not supported by C library.
+	Using the fallback 'C' locale.
+
+(/usr/lib/firefox-developer-edition/firefox:205256): Gtk-WARNING **: 15:38:50.725: Locale not supported by C library.
+	Using the fallback 'C' locale.
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofilefejWsI/search.json.mozlz4", (void 0)))
+1622714931557	Marionette	INFO	Listening on port 40331
+1622714931670	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://static-exp1.licdn.com/sc/h/qmebgjkmazigje84r2wiytw5, line 3713: unreachable code after return statement
+JavaScript warning: https://static-exp1.licdn.com/sc/h/djcy7p7bebcfi6ta39lkf81bt, line 6: unreachable code after return statement
+JavaScript warning: https://static-exp1.licdn.com/sc/h/3vtcykcztk1b4k6jtn6z3gd66, line 6: unreachable code after return statement
+JavaScript warning: https://static-exp1.licdn.com/sc/h/3vtcykcztk1b4k6jtn6z3gd66, line 6: unreachable code after return statement
+JavaScript warning: https://static-exp1.licdn.com/sc/h/wo39hf3k1imnt3ibfw2xykgn, line 6: unreachable code after return statement
+JavaScript warning: https://static-exp1.licdn.com/sc/h/5w7qbyexmw5ypfy6tsh1vlabf, line 6: unreachable code after return statement
+JavaScript warning: https://static-exp1.licdn.com/sc/h/64flwq81kt46kidawcub6je7g, line 6: unreachable code after return statement
+JavaScript warning: https://static-exp1.licdn.com/sc/h/qmebgjkmazigje84r2wiytw5, line 3713: unreachable code after return statement
+JavaScript warning: https://static-exp1.licdn.com/sc/h/f5ag9aycil4bpmyzpvlzgf01s, line 6: unreachable code after return statement
+JavaScript warning: https://static-exp1.licdn.com/sc/h/f5ag9aycil4bpmyzpvlzgf01s, line 6: unreachable code after return statement
+JavaScript warning: https://static-exp1.licdn.com/sc/h/5w7qbyexmw5ypfy6tsh1vlabf, line 6: unreachable code after return statement
+JavaScript warning: https://static-exp1.licdn.com/sc/h/64flwq81kt46kidawcub6je7g, line 6: unreachable code after return statement
+JavaScript warning: https://static-exp1.licdn.com/sc/h/3vtcykcztk1b4k6jtn6z3gd66, line 6: unreachable code after return statement
+JavaScript warning: https://static-exp1.licdn.com/sc/h/1yibzyx54vn5bamwe7vv0qun9, line 6: unreachable code after return statement
+JavaScript warning: https://static-exp1.licdn.com/sc/h/wo39hf3k1imnt3ibfw2xykgn, line 6: unreachable code after return statement
+1622714991755	Marionette	INFO	Stopped listening on port 40331
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1622715007211	geckodriver	INFO	Listening on 127.0.0.1:56703
+1622715007280	mozrunner::runner	INFO	Running command: "/usr/bin/firefox-developer-edition" "--marionette" "--no-sandbox" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileS9tbTQ"
+
+(firefoxdeveloperedition:206401): Gtk-WARNING **: 15:40:07.322: Locale not supported by C library.
+	Using the fallback 'C' locale.
+1622715008442	Marionette	INFO	Marionette enabled
+
+(firefoxdeveloperedition:206401): Gtk-WARNING **: 15:40:08.480: Theme directory 16x16/panel of theme Mkos-Big-Sur-Night has no size field
+
+
+(firefoxdeveloperedition:206401): Gtk-WARNING **: 15:40:08.482: Theme directory 16x16@2x/places of theme Mkos-Big-Sur-Night has no size field
+
+
+(firefoxdeveloperedition:206401): Gtk-WARNING **: 15:40:08.484: Theme directory 24x24/apps of theme Mkos-Big-Sur-Night has no size field
+
+
+(firefoxdeveloperedition:206401): Gtk-WARNING **: 15:40:08.485: Theme directory 24x24@2x/panel of theme Mkos-Big-Sur-Night has no size field
+
+
+(firefoxdeveloperedition:206401): Gtk-WARNING **: 15:40:08.485: Theme directory 24x24@2x/panel of theme Mkos-Big-Sur-Night has no size field
+
+
+(/usr/lib/firefox-developer-edition/firefox:206508): Gtk-WARNING **: 15:40:08.794: Locale not supported by C library.
+	Using the fallback 'C' locale.
+
+(/usr/lib/firefox-developer-edition/firefox:206584): Gtk-WARNING **: 15:40:10.356: Locale not supported by C library.
+	Using the fallback 'C' locale.
+
+(/usr/lib/firefox-developer-edition/firefox:206627): Gtk-WARNING **: 15:40:12.031: Locale not supported by C library.
+	Using the fallback 'C' locale.
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofileS9tbTQ/search.json.mozlz4", (void 0)))
+1622715013496	Marionette	INFO	Listening on port 39693
+1622715013612	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://static-exp1.licdn.com/sc/h/qmebgjkmazigje84r2wiytw5, line 3713: unreachable code after return statement
+JavaScript warning: https://static-exp1.licdn.com/sc/h/djcy7p7bebcfi6ta39lkf81bt, line 6: unreachable code after return statement
+JavaScript warning: https://static-exp1.licdn.com/sc/h/3vtcykcztk1b4k6jtn6z3gd66, line 6: unreachable code after return statement
+JavaScript warning: https://static-exp1.licdn.com/sc/h/3vtcykcztk1b4k6jtn6z3gd66, line 6: unreachable code after return statement
+JavaScript warning: https://static-exp1.licdn.com/sc/h/wo39hf3k1imnt3ibfw2xykgn, line 6: unreachable code after return statement
+JavaScript warning: https://static-exp1.licdn.com/sc/h/5w7qbyexmw5ypfy6tsh1vlabf, line 6: unreachable code after return statement
+JavaScript warning: https://static-exp1.licdn.com/sc/h/64flwq81kt46kidawcub6je7g, line 6: unreachable code after return statement
+JavaScript warning: https://static-exp1.licdn.com/sc/h/qmebgjkmazigje84r2wiytw5, line 3713: unreachable code after return statement
+JavaScript warning: https://static-exp1.licdn.com/sc/h/f5ag9aycil4bpmyzpvlzgf01s, line 6: unreachable code after return statement
+JavaScript warning: https://static-exp1.licdn.com/sc/h/f5ag9aycil4bpmyzpvlzgf01s, line 6: unreachable code after return statement
+JavaScript warning: https://static-exp1.licdn.com/sc/h/5w7qbyexmw5ypfy6tsh1vlabf, line 6: unreachable code after return statement
+JavaScript warning: https://static-exp1.licdn.com/sc/h/64flwq81kt46kidawcub6je7g, line 6: unreachable code after return statement
+JavaScript warning: https://static-exp1.licdn.com/sc/h/5w7qbyexmw5ypfy6tsh1vlabf, line 6: unreachable code after return statement
+JavaScript error: resource://devtools/server/actors/network-monitor/network-event-actor.js, line 108: Error: Got a request https://static-exp1.licdn.com/sc/h/6rdfz2v5fqc9asqrfur9zpcva without a browsingContextID set
+JavaScript error: resource://devtools/server/actors/network-monitor/network-event-actor.js, line 108: Error: Got a request https://static-exp1.licdn.com/sc/h/2xkj5wmotlb8m2ul4fklh4mck without a browsingContextID set
+JavaScript error: resource://devtools/server/actors/network-monitor/network-event-actor.js, line 108: Error: Got a request https://static-exp1.licdn.com/sc/h/31q2w57z8adc8sloy2pqcty2s without a browsingContextID set
+JavaScript error: resource://devtools/server/actors/network-monitor/network-event-actor.js, line 108: Error: Got a request https://static-exp1.licdn.com/sc/h/31q2w57z8adc8sloy2pqcty2s without a browsingContextID set
+1622715317737	geckodriver	INFO	Listening on 127.0.0.1:33489
+1622715317809	mozrunner::runner	INFO	Running command: "/usr/bin/firefox-developer-edition" "--marionette" "--no-sandbox" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileO1RjLo"
+
+(firefoxdeveloperedition:210038): Gtk-WARNING **: 15:45:17.847: Locale not supported by C library.
+	Using the fallback 'C' locale.
+1622715319072	Marionette	INFO	Marionette enabled
+
+(firefoxdeveloperedition:210038): Gtk-WARNING **: 15:45:19.109: Theme directory 16x16/panel of theme Mkos-Big-Sur-Night has no size field
+
+
+(firefoxdeveloperedition:210038): Gtk-WARNING **: 15:45:19.111: Theme directory 16x16@2x/places of theme Mkos-Big-Sur-Night has no size field
+
+
+(firefoxdeveloperedition:210038): Gtk-WARNING **: 15:45:19.113: Theme directory 24x24/apps of theme Mkos-Big-Sur-Night has no size field
+
+
+(firefoxdeveloperedition:210038): Gtk-WARNING **: 15:45:19.115: Theme directory 24x24@2x/panel of theme Mkos-Big-Sur-Night has no size field
+
+
+(firefoxdeveloperedition:210038): Gtk-WARNING **: 15:45:19.115: Theme directory 24x24@2x/panel of theme Mkos-Big-Sur-Night has no size field
+
+
+(/usr/lib/firefox-developer-edition/firefox:210155): Gtk-WARNING **: 15:45:19.560: Locale not supported by C library.
+	Using the fallback 'C' locale.
+
+(/usr/lib/firefox-developer-edition/firefox:210195): Gtk-WARNING **: 15:45:21.961: Locale not supported by C library.
+	Using the fallback 'C' locale.
+1622715322751	Marionette	INFO	Stopped listening on port 39693
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+(/usr/lib/firefox-developer-edition/firefox:210260): Gtk-WARNING **: 15:45:24.136: Locale not supported by C library.
+	Using the fallback 'C' locale.
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofileO1RjLo/search.json.mozlz4", (void 0)))
+1622715325000	Marionette	INFO	Listening on port 33269
+1622715325074	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://static-exp1.licdn.com/sc/h/qmebgjkmazigje84r2wiytw5, line 3713: unreachable code after return statement
+JavaScript warning: https://static-exp1.licdn.com/sc/h/djcy7p7bebcfi6ta39lkf81bt, line 6: unreachable code after return statement
+JavaScript warning: https://static-exp1.licdn.com/sc/h/3vtcykcztk1b4k6jtn6z3gd66, line 6: unreachable code after return statement
+JavaScript warning: https://static-exp1.licdn.com/sc/h/3vtcykcztk1b4k6jtn6z3gd66, line 6: unreachable code after return statement
+JavaScript warning: https://static-exp1.licdn.com/sc/h/wo39hf3k1imnt3ibfw2xykgn, line 6: unreachable code after return statement
+JavaScript warning: https://static-exp1.licdn.com/sc/h/5w7qbyexmw5ypfy6tsh1vlabf, line 6: unreachable code after return statement
+JavaScript warning: https://static-exp1.licdn.com/sc/h/64flwq81kt46kidawcub6je7g, line 6: unreachable code after return statement
+JavaScript error: , line 0: uncaught exception: Object
+JavaScript warning: https://static-exp1.licdn.com/sc/h/qmebgjkmazigje84r2wiytw5, line 3713: unreachable code after return statement
+JavaScript warning: https://static-exp1.licdn.com/sc/h/f5ag9aycil4bpmyzpvlzgf01s, line 6: unreachable code after return statement
+JavaScript warning: https://static-exp1.licdn.com/sc/h/f5ag9aycil4bpmyzpvlzgf01s, line 6: unreachable code after return statement
+JavaScript warning: https://static-exp1.licdn.com/sc/h/5w7qbyexmw5ypfy6tsh1vlabf, line 6: unreachable code after return statement
+JavaScript warning: https://static-exp1.licdn.com/sc/h/64flwq81kt46kidawcub6je7g, line 6: unreachable code after return statement
+1622715355119	Marionette	INFO	Stopped listening on port 33269
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1622715678710	geckodriver	INFO	Listening on 127.0.0.1:57719
+1622715678809	mozrunner::runner	INFO	Running command: "/usr/bin/firefox-developer-edition" "--marionette" "--no-sandbox" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofilexkpEPy"
+
+(firefoxdeveloperedition:214414): Gtk-WARNING **: 15:51:18.838: Locale not supported by C library.
+	Using the fallback 'C' locale.
+1622715679838	Marionette	INFO	Marionette enabled
+
+(firefoxdeveloperedition:214414): Gtk-WARNING **: 15:51:19.910: Theme directory 16x16/panel of theme Mkos-Big-Sur-Night has no size field
+
+
+(firefoxdeveloperedition:214414): Gtk-WARNING **: 15:51:19.919: Theme directory 16x16@2x/places of theme Mkos-Big-Sur-Night has no size field
+
+
+(firefoxdeveloperedition:214414): Gtk-WARNING **: 15:51:19.925: Theme directory 24x24/apps of theme Mkos-Big-Sur-Night has no size field
+
+
+(firefoxdeveloperedition:214414): Gtk-WARNING **: 15:51:19.927: Theme directory 24x24@2x/panel of theme Mkos-Big-Sur-Night has no size field
+
+
+(firefoxdeveloperedition:214414): Gtk-WARNING **: 15:51:19.929: Theme directory 24x24@2x/panel of theme Mkos-Big-Sur-Night has no size field
+
+
+(/usr/lib/firefox-developer-edition/firefox:214528): Gtk-WARNING **: 15:51:20.583: Locale not supported by C library.
+	Using the fallback 'C' locale.
+
+(/usr/lib/firefox-developer-edition/firefox:214601): Gtk-WARNING **: 15:51:23.293: Locale not supported by C library.
+	Using the fallback 'C' locale.
+
+(/usr/lib/firefox-developer-edition/firefox:214655): Gtk-WARNING **: 15:51:25.487: Locale not supported by C library.
+	Using the fallback 'C' locale.
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofilexkpEPy/search.json.mozlz4", (void 0)))
+1622715688102	Marionette	INFO	Listening on port 38245
+1622715688218	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+1622715696908	Marionette	INFO	Stopped listening on port 38245

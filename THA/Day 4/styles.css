@@ -76,3 +76,28 @@ box-shadow:  -20px 20px 60px #bebebe,
     height: 85px;
     background-color: rgb(241, 22, 248);
 } 
+
+.animate{
+    animation: seconds 60s linear;
+    animation-iteration-count:  infinite;
+}
+.animate2{
+    animation: seconds 360s linear;
+    animation-iteration-count:  infinite;
+}
+.animate3{
+    animation: seconds 2160s linear;
+    animation-iteration-count:  infinite;
+}
+
+@keyframes seconds {
+    0% {
+        transform: rotate(0deg);
+    }
+    /* 50% {
+        transform: rotate(180deg);
+    } */
+    100% {
+        transform: rotate(359deg);
+    }
+}

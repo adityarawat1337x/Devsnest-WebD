@@ -7,11 +7,11 @@ from selenium.webdriver.support import expected_conditions as expCon
 from selenium.webdriver.support.ui import WebDriverWait
 from selenium.webdriver.common.by import By
 
-
 options = Options()
-# options.add_argument('--headless')
+#options.add_argument('--headless')
 options.add_argument('--no-sandbox')
 # add path for chromedriver.exe
+
 options.binary_location = ("/usr/bin/firefox-developer-edition")
 # This is the location where you have installed Firefox on your machine
 driver = webdriver.Firefox(options=options, executable_path="/home/napster/selenium/geckodriver")
@@ -40,8 +40,8 @@ if __name__=="__main__":
         btns.append(each.find_element_by_class_name("artdeco-button--secondary"))
     # print(btns)
 
-    # while len(btns)==0:
-    #     btns = driver.find_elements_by_xpath("//button[@class='invitation-card__action-btn artdeco-button artdeco-button--2 artdeco-button--secondary ember-view']")
+    while len(btns)==0:
+         btns = driver.find_elements_by_xpath("//button[@class='invitation-card__action-btn artdeco-button artdeco-button--2 artdeco-button--secondary ember-view']")
 
     #click the buttons
     for btn in btns:
