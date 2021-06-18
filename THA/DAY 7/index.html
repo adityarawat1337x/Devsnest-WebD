@@ -1,0 +1,63 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+    <link rel="preconnect" href="https://fonts.gstatic.com">
+<link href="https://fonts.googleapis.com/css2?family=Montserrat:ital,wght@1,900&display=swap" rel="stylesheet"> 
+    <style>
+        #a{
+            margin: 30px;
+            display: block;
+        }
+
+        img{
+            width: 400px;
+            height: 400px;
+            object-fit: cover;
+            border-radius: 50%;
+
+        }
+        body{
+            font-family: 'Montserrat', sans-serif;
+            width: 100vw;
+            height: 100vh;
+            display: flex;
+            flex-direction: column;
+            justify-content: center;
+            align-items: center;
+            z-index: 1;
+            }
+
+        .animate{
+            animation: ease-in 2s linear;
+        }
+
+        @keyframes animate {
+        0% {
+            z-index: 0;
+        }
+        100% {
+            z-index:2;
+        }
+        }
+
+        @media screen and (max-width:500px) {
+            img{
+                height: 80vw;
+                width: 80vw;
+
+            }
+        }
+
+    </style>
+</head>
+<body>
+    <img src="" alt="">
+    <h1 id="a" class="animate"></h1>
+    <h1 id="b" class="animate"></h1>
+    <script src="joke.js"></script>
+</body>
+</html>
