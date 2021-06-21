@@ -7,8 +7,8 @@
 .container {
 	width: 100vw;
 	height: 100vh;
-	background-color: rgb(61, 61, 61);
-	color: blueviolet;
+	background-color: rgb(211, 195, 195);
+	color: rgb(138, 45, 224);
     display: flex;
     align-items: center;
     justify-content: center;
@@ -16,17 +16,17 @@
 
 .wrapper{
     width:600px;
-    height: 600px;
-    background-color: rgb(37, 194, 155);
+    height:600px;
+    background-color: rgb(232, 233, 231);
 	display: grid;
-	grid-template-columns: repeat(20,1fr);
-	grid-template-rows: repeat(20,1fr);
+	grid-template-columns: repeat(120,1fr);
+	grid-template-rows: repeat(120,1fr);
 }
 
 .wrapper > div:hover{
-	background-color: rgb(56, 223, 159);
+	background-color: rgb(55, 219, 40);
 }
 
 .white{
-	background-color: rgb(255, 255, 255);
+	background-color: rgb(23, 235, 40);
 }
