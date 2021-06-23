@@ -1,5 +1,6 @@
 const cards = document.getElementsByClassName("card")
 let ids = []
+
 Array.from(cards).forEach(card => {
     card.addEventListener("click",()=>{
         card.classList.toggle(`${card.id}`);
@@ -18,5 +19,3 @@ Array.from(cards).forEach(card => {
         }
     })
 });
-
-
