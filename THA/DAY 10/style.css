@@ -19,7 +19,7 @@ body{
     grid-template-rows: repeat(3,1fr);
     width: 820px;
     height: 620px;
-    background-image: url("./you-win-sign-pop-art-style_175838-499.jpg");
+    background-image: url("./Assets/you-win-sign-pop-art-style_175838-499.jpg");
     background-repeat: no-repeat;
     background-size:cover;
     background-position: center;
@@ -30,8 +30,9 @@ body{
 .flop{
     width: 200px;
     height: 200px;
-    border: 1px solid white;
-    background-color: rgb(255, 255, 255);
+    border: 1px solid rgb(202, 202, 202);
+    border-radius: 5px;
+    background-color: rgba(255, 255, 255, 0.952);
 }
 
 .a,.b,.c,.d,.e,.f{
@@ -41,37 +42,37 @@ body{
 
 .a{
     background-size:cover;
-    background-image: url("./facebook.png");
+    background-image: url("./Assets/cat.png");
     background-position: center;
 }
 .b{
-    background-image: url("./instagram.png");
+    background-image: url("./Assets/dinosaur.png");
     background-size:cover;
     background-position: center;
 }
 .c{
-    background-image: url("./linkedin.png");
+    background-image: url("./Assets/dog.png");
     background-size:cover;
     background-position: center;
 }
 .d{
-    background-image: url("./twitter.png");
+    background-image: url("./Assets/donkey.png");
     background-size:cover;
     background-position: center;
 }
 .e{
-    background-image: url("./whatsapp.png");
+    background-image: url("./Assets/elephant.png");
     background-size:cover;
     background-position: center;
 }
 .f{
-    background-image: url("./youtube.png");
+    background-image: url("./Assets/kangaroo.png");
     background-size:cover;
     background-position: center;
 }
-
 
 .solved{
     background-color: transparent;
     background-image: none;
 }
+
