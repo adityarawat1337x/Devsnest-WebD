@@ -84,7 +84,7 @@ function remake(i){
             if(i==4){
                 setTimeout(() => {
                     end();
-                }, 1000); 
+                }, 1000);
             }
         })
     })
