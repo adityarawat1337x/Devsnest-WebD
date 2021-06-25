@@ -42,8 +42,8 @@ const next = document.getElementById("next");
 
 
 function end(){
-    const form = document.querySelector(".form")
-    form.innerHTML = `<h1>Your Score is ${score}</h1>`;    
+    const cont = document.querySelector(".container")
+    cont.innerHTML = `<h1>Your Score is ${score}</h1>`;    
 }
 
 function remake(i){
