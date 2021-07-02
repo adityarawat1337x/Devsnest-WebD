@@ -1,18 +1,19 @@
-body{
-  width: 100vw;
-  height: 100vh;
-  display: flex;
-  align-items: center;
-  justify-content: center;
-}
-img{
-  width: 400px;
-  height: 400px;
+
+
+img {
+	width: 400px;
+	height: 400px;
 }
 
-.cont{
-  border-radius: 10px;
-  box-shadow: 10px 10px 20px rgb(80, 80, 80);
-  text-align: center;
+.cont {
+	border-radius: 10px;
+	box-shadow: 20px 20px 45px #a8a7a7;
+	text-align: center;
+	padding: 5px;
 }
 
+button{
+  width: 60px;
+  height: 30px;
+  margin: 10px auto;
+}
