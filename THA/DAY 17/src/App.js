@@ -11,10 +11,11 @@ const App = () => {
 				style={{ "overflow-y": "scroll", width: "600px", height: "400px" }}
 			>
 				<Card name="Pizza" calorie="56" />
-				<Card name="Burger" calorie="56" />
-				<Card name="Coke" calorie="56" />
-				<Card name="Browne" calorie="56" />
-				<Card name="Pizza" calorie="56" />
+				<Card name="Burger" calorie="64" />
+				<Card name="Coke" calorie="200" />
+				<Card name="Brownie" calorie="353" />
+				<Card name="Fried Rice" calorie="35" />
+				<Card name="Dumplings" calorie="34" />
 			</div>
 		</>
 	);
