@@ -6,7 +6,7 @@ import Chess from "./Chess";
 const App = () => {
 	return (
 		<>
-			{/* <Meme /> */}
+			<Meme />
 			<Chess />
 		</>
 	);
