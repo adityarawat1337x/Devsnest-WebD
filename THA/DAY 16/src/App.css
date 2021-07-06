@@ -17,3 +17,43 @@ button{
   height: 30px;
   margin: 10px auto;
 }
+
+.Board {
+  display: grid;
+  grid-template-rows: repeat(8, 1fr);
+  height: 500px;
+  width: 500px;
+  -webkit-box-shadow: -15px 7px 29px -6px rgba(0, 0, 0, 0.75);
+  -moz-box-shadow: -15px 7px 29px -6px rgba(0, 0, 0, 0.75);
+  box-shadow: -15px 7px 29px -6px rgba(0, 0, 0, 0.75);
+}
+
+.row {
+  display: -webkit-flex;
+  display: flex;
+}
+.sqaure {
+  height: 100%;
+  width: 100%;
+  margin: 0;
+  padding: 0;
+}
+
+.row {
+  display: -webkit-flex;
+  display: flex;
+}
+.box {
+  height: 100%;
+  width: 100%;
+  margin: 0;
+  padding: 0;
+}
+
+.row:nth-child(odd) .box:nth-child(odd){
+  background-color: black;
+}
+
+.row:nth-child(even)  .box:nth-child(even){
+  background-color: black;
+}
