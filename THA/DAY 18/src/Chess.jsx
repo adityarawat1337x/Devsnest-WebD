@@ -4,13 +4,19 @@ import Box from "./Box";
 
 const Chess = () => {
 
-    let arr = [];
-    for (let i = 0; i < 64; i++)
-        arr.push(i%2);
-    
+    let arr = [0, 1, 0, 1, 0, 1, 0, 1];
+    let x = 0, y=1;
+
     return (
         <div className="Board">
-            {arr.map((el, index) => { return <Box el={el} index={index}/>})}
+            {arr.map((el, index) => { return <Box el={el} a={x} index={index} /> })}
+            {arr.map((el, index) => { return <Box el={el} a={y} index={index} /> })}
+            {arr.map((el, index) => { return <Box el={el} a={x} index={index} /> })}
+            {arr.map((el, index) => { return <Box el={el} a={y} index={index} /> })}
+            {arr.map((el, index) => { return <Box el={el} a={x} index={index} /> })}
+            {arr.map((el, index) => { return <Box el={el} a={y} index={index} /> })}
+            {arr.map((el, index) => { return <Box el={el} a={x} index={index} /> })}
+            {arr.map((el, index) => { return <Box el={el} a={y} index={index} /> })}
         </div>
     );
 };
