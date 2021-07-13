@@ -1,8 +1,17 @@
-import React from "react";
+import React, { useState } from "react";
 import "./App.css";
 import Card from "./Card";
 
 const App = () => {
+	const [state, setstate] = useState([{ name: "Pizza", calorie: "56" }, { name: "Burger", calorie: "64" }, { name: "Coke", calorie: "200" }, { name:"Brownie", calorie : "353" }, { name: "Fried Rice", calorie: "35" }, { name: "Dumplings", calorie: "34" }])
+	
+	const setter = (key) => {
+		console.log("state  deleted");
+		const tmpState = state;
+		tmpState.splice(key, 1);
+		setstate([...tmpState]);
+	}
+
 	return (
 		<>
 			<h1>Calorie Read Only</h1>
@@ -10,12 +19,7 @@ const App = () => {
 				className="cont"
 				style={{ "overflow-y": "scroll", width: "600px", height: "400px" }}
 			>
-				<Card name="Pizza" calorie="56" />
-				<Card name="Burger" calorie="64" />
-				<Card name="Coke" calorie="200" />
-				<Card name="Brownie" calorie="353" />
-				<Card name="Fried Rice" calorie="35" />
-				<Card name="Dumplings" calorie="34" />
+				{state.map((item, index) => <Card key={index} name={item.name} calorie={item.calorie} setter={setter}/>)}
 			</div>
 		</>
 	);
