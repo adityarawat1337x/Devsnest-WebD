@@ -1,10 +1,19 @@
 import React, { useState } from "react";
 import { nanoid } from "nanoid";
-import { Button, FormControl, TextField, Box } from "@material-ui/core/";
+import {
+	Button,
+	FormControl,
+	TextField,
+	Card,
+	Typography,
+	CardContent,
+} from "@material-ui/core/";
 import { useForm } from "react-hook-form";
-import "./App.css";
+import useStyles from "./styles";
 
 const App = () => {
+	const classes = useStyles();
+
 	const [state, setstate] = useState([
 		{ key: nanoid(), name: "Pizza", calorie: "56" },
 	]);
@@ -21,8 +30,17 @@ const App = () => {
 		let tmp = state;
 		data.key = nanoid();
 		tmp.push(data);
-
 		setstate(tmp);
+	};
+
+	const del = (key) => {
+		let tmp = state.filter((mt) => mt.key !== key)
+		setstate(tmp);
+	};
+
+	const edit = (data) => {
+		console.log(data);
+		
 	};
 
 	return (
@@ -56,16 +74,34 @@ const App = () => {
 					Add
 				</Button>
 			</FormControl>
-			<Box>
+			<main className={classes.break}>
 				{state.map((data) => {
 					return (
-						<div key={data.key}>
-							<div>Food item: {data.name}</div>
-							<div>Calories: {data.calorie}</div>
-						</div>
+						<Card key={data.key} {...register("key")}>
+							<CardContent className={classes.card}>
+								<Typography variant="h6">Food item: {data.name}</Typography>
+								<Typography variant="h6">Calories: {data.calorie}</Typography>
+								<Button
+									onClick={()=>del(data.key)}
+									size="small"
+									variant="contained"
+									className={classes.del}
+								>
+									Delete
+								</Button>
+								<Button
+									onClick={()=>edit(data.key)}
+									size="small"
+									variant="contained"
+									className={classes.edit}
+								>
+									Edit
+								</Button>
+							</CardContent>
+						</Card>
 					);
 				})}
-			</Box>
+			</main>
 		</>
 	);
 };
