@@ -1,9 +1,10 @@
 import React, { useState } from "react";
+import { nanoid } from "nanoid";
 import "./App.css";
 import Card from "./Card";
 
 const App = () => {
-	const [state, setstate] = useState([{ name: "Pizza", calorie: "56" }, { name: "Burger", calorie: "64" }, { name: "Coke", calorie: "200" }, { name:"Brownie", calorie : "353" }, { name: "Fried Rice", calorie: "35" }, { name: "Dumplings", calorie: "34" }])
+	const [state, setstate] = useState([{	key:nanoid(), name: "Pizza", calorie: "56" }])
 	
 	const setter = (key) => {
 		console.log("state  deleted");
