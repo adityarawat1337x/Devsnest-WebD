@@ -1,27 +1,71 @@
 import React, { useState } from "react";
 import { nanoid } from "nanoid";
+import { Button, FormControl, TextField, Box } from "@material-ui/core/";
+import { useForm } from "react-hook-form";
 import "./App.css";
-import Card from "./Card";
 
 const App = () => {
-	const [state, setstate] = useState([{	key:nanoid(), name: "Pizza", calorie: "56" }])
-	
-	const setter = (key) => {
-		console.log("state  deleted");
-		const tmpState = state;
-		tmpState.splice(key, 1);
-		setstate([...tmpState]);
-	}
+	const [state, setstate] = useState([
+		{ key: nanoid(), name: "Pizza", calorie: "56" },
+	]);
+
+	const {
+		register,
+		handleSubmit,
+		watch,
+		formState: { errors },
+	} = useForm();
+
+	const add = (data) => {
+		console.log(data);
+		let tmp = state;
+		data.key = nanoid();
+		tmp.push(data);
+
+		setstate(tmp);
+	};
 
 	return (
 		<>
-			<h1>Calorie Read Only</h1>
-			<div
-				className="cont"
-				style={{ "overflow-y": "scroll", width: "600px", height: "400px" }}
+			<FormControl
+				onSubmit={handleSubmit(add)}
+				style={{ display: "flex", flexDirection: "column", width: "400px" }}
+				component="div"
+				color="secondary"
 			>
-				{state.map((item, index) => <Card key={index} name={item.name} calorie={item.calorie} setter={setter}/>)}
-			</div>
+				<TextField
+					label="Food item"
+					autoFocus={true}
+					type="text"
+					color="primary"
+					{...register("name")}
+				/>
+				<TextField
+					label="Calories"
+					type="number"
+					color="secondary"
+					{...register("calorie")}
+				/>
+				<Button
+					onClick={handleSubmit(add)}
+					type="submit"
+					size="small"
+					variant="contained"
+					color="primary"
+				>
+					Add
+				</Button>
+			</FormControl>
+			<Box>
+				{state.map((data) => {
+					return (
+						<div key={data.key}>
+							<div>Food item: {data.name}</div>
+							<div>Calories: {data.calorie}</div>
+						</div>
+					);
+				})}
+			</Box>
 		</>
 	);
 };
