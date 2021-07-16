@@ -11,7 +11,7 @@ import { useForm } from "react-hook-form";
 import useStyles from "../styles";
 
 
-const Form = ({ add,def }) => {
+const Form = ({ add,def,type }) => {
 
     const {
         register,
@@ -43,6 +43,7 @@ const Form = ({ add,def }) => {
                 defaultValue={def[2]}
                 {...register("calorie")}
             />
+            <label {...register("key")}>{def[2]}</label>
             <Button
                 onClick={handleSubmit(add)}
                 type="submit"
@@ -50,7 +51,7 @@ const Form = ({ add,def }) => {
                 variant="contained"
                 color="primary"
             >
-                Add
+                {type}
             </Button>
         </FormControl>
     )

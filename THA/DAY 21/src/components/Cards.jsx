@@ -46,7 +46,7 @@ const Cards = ({ del, edit, state }) => {
                 );
             })
             }
-            {editState[0] && <Form add={edit} def={[editState[1], "", ""]} />}
+            {editState[0] && <Form add={edit} def={[editState[1], "", ""]} type="Edit" />}
         </main >
     );
 };
