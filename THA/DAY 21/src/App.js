@@ -22,12 +22,15 @@ const App = () => {
 	};
 
 	const edit = (data) => {
-		console.log(data);
+		let tmp = state.filter(dt => dt.key !== data.key);
+		tmp.push(data)
+		console.log(tmp);
+		setstate([...tmp]);
 	};
 
 	return (
 		<>
-			<Form del={del} add={add} edit={edit} state={state} />
+			<Form add={add} def={[null,"",""]}/>
 			<Cards del={del} edit={edit} state={state} />
 		</>
 	);

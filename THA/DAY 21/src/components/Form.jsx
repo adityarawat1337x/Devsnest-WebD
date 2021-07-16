@@ -11,7 +11,7 @@ import { useForm } from "react-hook-form";
 import useStyles from "../styles";
 
 
-const Form = ({ del, add, edit, state }) => {
+const Form = ({ add,def }) => {
 
     const {
         register,
@@ -27,18 +27,20 @@ const Form = ({ del, add, edit, state }) => {
             style={{ display: "flex", flexDirection: "column", width: "400px" }}
             component="div"
             color="secondary"
-        >  {console.log("rendered form : ", state)}
+        >  
             <TextField
                 label="Food item"
                 autoFocus={true}
                 type="text"
                 color="primary"
+                defaultValue={def[1]}
                 {...register("name")}
             />
             <TextField
                 label="Calories"
                 type="number"
                 color="secondary"
+                defaultValue={def[2]}
                 {...register("calorie")}
             />
             <Button

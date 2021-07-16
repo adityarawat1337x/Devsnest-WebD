@@ -20,7 +20,11 @@ const useStyles = makeStyles((theme) => ({
 		backgroundColor: green[500],
 		color: "white",
 		margin: "10px 10px 0 0",
-	},
+    },
+    main: {
+        overflowY: "scroll",
+        height: "400px",
+    }
 }));
 
 export default useStyles;

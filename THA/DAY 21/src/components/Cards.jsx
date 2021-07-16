@@ -1,4 +1,4 @@
-import React from "react";
+import React, { useState } from "react";
 import useStyles from "../styles";
 import {
     Button,
@@ -8,17 +8,18 @@ import {
     Typography,
     CardContent,
 } from "@material-ui/core/";
+import Form from "./Form";
 
 
 const Cards = ({ del, edit, state }) => {
+    const [editState, seteditState] = useState([false, null])
     const classes = useStyles();
 
     return (
-        <main className={classes.break}>
-            {console.log("rendered card : ", state)}
+        <main className={classes.main}>
             {state.map((data) => {
                 return (
-                    <Card key={data.key}>
+                    <Card key={data.key} className={classes.break}>
                         <CardContent className={classes.card}>
                             <Typography variant="h6">Food item: {data.name}</Typography>
                             <Typography variant="h6">Calories: {data.calorie}</Typography>
@@ -31,7 +32,9 @@ const Cards = ({ del, edit, state }) => {
                                 Delete
                             </Button>
                             <Button
-                                onClick={() => edit(data.key)}
+                                onClick={() =>
+                                    seteditState([true, data.key])
+                                }
                                 size="small"
                                 variant="contained"
                                 className={classes.edit}
@@ -41,8 +44,10 @@ const Cards = ({ del, edit, state }) => {
                         </CardContent>
                     </Card>
                 );
-            })}
-        </div>
+            })
+            }
+            {editState[0] && <Form add={edit} def={[editState[1], "", ""]} />}
+        </main >
     );
 };
 
