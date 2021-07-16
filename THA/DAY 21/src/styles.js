@@ -8,7 +8,8 @@ const useStyles = makeStyles((theme) => ({
 		width: "380px",
 	},
 	break: {
-		margin: "20px",
+        margin: "20px",
+        
 	},
 	del: {
 		backgroundColor: red[500],
