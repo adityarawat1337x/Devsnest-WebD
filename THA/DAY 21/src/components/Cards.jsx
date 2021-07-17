@@ -6,13 +6,19 @@ import {
     TextField,
     Card,
     Typography,
-    CardContent,
+    CardContent
 } from "@material-ui/core/";
 import Form from "./Form";
+import Modal from "./Modal"
 
 
 const Cards = ({ del, edit, state }) => {
     const [editState, seteditState] = useState([false, null])
+
+    const handleClose = () => {
+        seteditState([false, null])
+    };
+
     const classes = useStyles();
 
     return (
@@ -32,9 +38,7 @@ const Cards = ({ del, edit, state }) => {
                                 Delete
                             </Button>
                             <Button
-                                onClick={() =>
-                                    seteditState([true, data.key])
-                                }
+                                onClick={() => seteditState([true, data])}
                                 size="small"
                                 variant="contained"
                                 className={classes.edit}
@@ -46,7 +50,7 @@ const Cards = ({ del, edit, state }) => {
                 );
             })
             }
-            {editState[0] && <Form add={edit} def={[editState[1], "", ""]} type="Edit" />}
+            <Modal add={edit} open={editState[0]}  def={[editState[0], seteditState, editState[1]]} handleClose={handleClose} type="Edit" onClose={handleClose} />
         </main >
     );
 };

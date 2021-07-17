@@ -11,7 +11,7 @@ import { useForm } from "react-hook-form";
 import useStyles from "../styles";
 
 
-const Form = ({ add,def,type }) => {
+const Form = ({ add, def, type }) => {
 
     const {
         register,
@@ -23,11 +23,11 @@ const Form = ({ add,def,type }) => {
 
     return (
         <FormControl
-            onSubmit={handleSubmit(add)}
+            onSubmit={handleSubmit((data) => add(data, def[2], def[1]))}
             style={{ display: "flex", flexDirection: "column", width: "400px" }}
             component="div"
             color="secondary"
-        >  
+        >
             <TextField
                 label="Food item"
                 autoFocus={true}
@@ -43,17 +43,16 @@ const Form = ({ add,def,type }) => {
                 defaultValue={def[2]}
                 {...register("calorie")}
             />
-            <label {...register("key")}>{def[2]}</label>
             <Button
-                onClick={handleSubmit(add)}
-                type="submit"
-                size="small"
-                variant="contained"
-                color="primary"
+                onClick={handleSubmit((data) => add(data, def[2], def[1]))}
+            type="submit"
+            size="small"
+            variant="contained"
+            color="primary"
             >
-                {type}
+            {type}
             </Button>
-        </FormControl>
+        </FormControl >
     )
 }
 

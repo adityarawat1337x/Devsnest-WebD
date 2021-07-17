@@ -21,16 +21,18 @@ const App = () => {
 		setstate(tmp);
 	};
 
-	const edit = (data,key) => {
+	const edit = (data, key, seteditState) => {
+		console.log("edit ran", data, key, seteditState);
 		let tmp = state.filter((mt) => mt.key !== key);
 		data.key = nanoid();
 		tmp.push(data);
+		seteditState([false, null]);
 		setstate([...tmp]);
 	};
 
 	return (
 		<>
-			<Form add={add} def={[null, "", ""]} type={"Add"}/>
+			<Form add={add} def={[null, "", ""]} type={"Add"} />
 			<Cards del={del} edit={edit} state={state} />
 		</>
 	);
