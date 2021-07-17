@@ -3,11 +3,11 @@ import React from "react";
 
 const Template = ({ templates, setMeme }) => {
     return (
-        <>
+                   
+        <div className="template">
             {templates.map((template) => (
                 <div
                     key={template.id}
-                    className="template"
                     onClick={() => {
                         setMeme(template);
                     }}
@@ -18,7 +18,7 @@ const Template = ({ templates, setMeme }) => {
                     ></div>
                 </div>
             ))}
-        </>
+        </div>
     );
 };
 
