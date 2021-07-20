@@ -18,10 +18,14 @@ export default function App() {
 
 					<ul>
 						<li>
-							<Link to="/public">Public Page</Link>
+							<Link className="link" to="/public">
+								Public Page
+							</Link>
 						</li>
 						<li>
-							<Link to="/protected">Protected Page</Link>
+							<Link className="link" to="/protected">
+								Protected Page
+							</Link>
 						</li>
 					</ul>
 
@@ -53,7 +57,6 @@ const fakeAuth = {
 		setTimeout(cb, 100);
 	},
 };
-
 
 const authContext = createContext();
 

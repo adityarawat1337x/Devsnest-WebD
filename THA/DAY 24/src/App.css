@@ -1,3 +1,7 @@
+*{
+	color:white
+}
+
 img {
 	width: 400px;
 	height: 400px;
@@ -6,13 +10,29 @@ img {
 .navbar {
 	background-color: rgb(70, 102, 247);
 	width: 100vw;
-	height: 100px;
+	height: 50px;
 	display: flex;
 	flex-direction: row;
 }
 
-li {
-	text-decoration: none;
+ul{
+	display: flex;
+	flex-direction: row;
+	width:500px;
+	justify-content: space-around;
+}
+
+li,.link {
 	list-style: none;
+	text-decoration: none;
 	color: white;
+}
+
+p{
+	position: absolute;
+	top:50%;
+	left:50%;
+	transform: translate(-50%,-50%);
+	padding: 10px;
+	background-color: rgb(99, 99, 255);
 }
