@@ -98,16 +98,17 @@ function AuthButton() {
 	let auth = useAuth();
 
 	return auth.user ? (
-		<p>
-			Welcome!{" "}
+		<>
+			<p>Welcome! </p>
 			<button
+				className="btn"
 				onClick={() => {
 					auth.signout(() => history.push("/"));
 				}}
 			>
-				Sign out
+				Log out
 			</button>
-		</p>
+		</>
 	) : (
 		<p>You are not logged in.</p>
 	);
@@ -157,7 +158,9 @@ function LoginPage() {
 	return (
 		<div>
 			<p>You must log in to view the page at {from.pathname}</p>
-			<button onClick={login}>Log in</button>
+			<button className="btn" onClick={login}>
+				Log in
+			</button>
 		</div>
 	);
 }
