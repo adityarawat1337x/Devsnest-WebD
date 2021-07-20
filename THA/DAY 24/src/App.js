@@ -106,7 +106,7 @@ function AuthButton() {
 					auth.signout(() => history.push("/"));
 				}}
 			>
-				Log out
+				Log Out
 			</button>
 		</>
 	) : (
