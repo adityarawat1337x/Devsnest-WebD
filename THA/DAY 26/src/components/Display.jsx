@@ -3,6 +3,7 @@ import { useSelector } from "react-redux";
 
 const Display = () => {
   const input = useSelector((state) => state.input);
+  console.log(input);
   return (
     <div>
       <h1>Username: {input[0]}</h1>
