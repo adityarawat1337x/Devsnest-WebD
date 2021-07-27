@@ -2,12 +2,13 @@ import React from "react";
 import { changeEmail, changeName } from "./actions/inputActions";
 import { useDispatch } from "react-redux";
 import Display from "./components/Display";
+import "./App.css";
 
 export default function App() {
   const dispatch = useDispatch();
 
   return (
-    <div>
+    <div className="cont">
       <input
         type="text"
         onChange={(e) => {
