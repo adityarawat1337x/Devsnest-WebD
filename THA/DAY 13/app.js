@@ -19,4 +19,6 @@ fetch(url)
       append(ul, li);
     });
   })
-  .catch( error => { console.log(error); })
+  .catch( error => { 
+    console.log(error); 
+})

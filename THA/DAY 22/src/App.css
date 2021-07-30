@@ -3,7 +3,6 @@ img {
 	height: 400px;
 }
 
-
 .template {
 	background-color: rgb(223, 223, 223);
 	display: grid;
@@ -19,6 +18,7 @@ img {
 	border-radius: 10px;
 	box-shadow: 20px 20px 45px #727272;
 }
+
 .image {
 	width: 400px;
 	height: 400px;

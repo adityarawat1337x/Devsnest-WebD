@@ -8,6 +8,6 @@ const Card = ({ name, calorie }) => {
             <h4>You have consumed {calorie} cals today</h4>
         </div>
     );
-};
+}; 
 
 export default Card;

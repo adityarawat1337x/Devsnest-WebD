@@ -1,4 +1,8 @@
-import React, { useContext, createContext, useState } from "react";
+import React, {
+	useContext,
+	createContext,
+	useState
+} from "react";
 import {
 	BrowserRouter as Router,
 	Switch,
@@ -9,40 +13,55 @@ import {
 	useLocation,
 } from "react-router-dom";
 import "./App.css";
+
 export default function App() {
-	return (
-		<ProvideAuth>
-			<Router>
-				<div className="navbar">
-					<AuthButton />
-
-					<ul>
-						<li>
-							<Link className="link" to="/public">
-								Public Page
-							</Link>
-						</li>
-						<li>
-							<Link className="link" to="/protected">
-								Protected Page
-							</Link>
-						</li>
-					</ul>
-
-					<Switch>
-						<Route path="/public">
-							<PublicPage />
-						</Route>
-						<Route path="/login">
-							<LoginPage />
-						</Route>
-						<PrivateRoute path="/protected">
-							<ProtectedPage />
-						</PrivateRoute>
-					</Switch>
-				</div>
-			</Router>
-		</ProvideAuth>
+	return ( <
+		ProvideAuth >
+		<
+		Router >
+		<
+		div className = "navbar" >
+		<
+		AuthButton / >
+		<
+		ul >
+		<
+		li >
+		<
+		Link className = "link"
+		to = "/public" >
+		Public Page <
+		/Link> <
+		/li> <
+		li >
+		<
+		Link className = "link"
+		to = "/protected" >
+		Protected Page <
+		/Link> <
+		/li> <
+		/ul> <
+		Switch >
+		<
+		Route path = "/public" >
+		<
+		PublicPage / >
+		<
+		/Route> <
+		Route path = "/login" >
+		<
+		LoginPage / >
+		<
+		/Route> <
+		PrivateRoute path = "/protected" >
+		<
+		ProtectedPage / >
+		<
+		/PrivateRoute> <
+		/Switch> <
+		/div> <
+		/Router> <
+		/ProvideAuth>
 	);
 }
 
@@ -60,9 +79,15 @@ const fakeAuth = {
 
 const authContext = createContext();
 
-function ProvideAuth({ children }) {
+function ProvideAuth({
+	children
+}) {
 	const auth = useProvideAuth();
-	return <authContext.Provider value={auth}>{children}</authContext.Provider>;
+	return <authContext.Provider value = {
+		auth
+	} > {
+		children
+	} < /authContext.Provider>;
 }
 
 function useAuth() {
@@ -97,50 +122,61 @@ function AuthButton() {
 	let history = useHistory();
 	let auth = useAuth();
 
-	return auth.user ? (
-		<>
-			<p>Welcome! </p>
-			<button
-				className="btn"
-				onClick={() => {
-					auth.signout(() => history.push("/"));
-				}}
-			>
-				Log Out
-			</button>
-		</>
-	) : (
-		<p>You are not logged in.</p>
+	return auth.user ? ( <
+		>
+		<
+		p > Welcome! < /p> <
+		button className = "btn"
+		onClick = {
+			() => {
+				auth.signout(() => history.push("/"));
+			}
+		} >
+		Log Out <
+		/button> <
+		/>
+	) : ( <
+		p > You are not logged in . < /p>
 	);
 }
 
-function PrivateRoute({ children, ...rest }) {
+function PrivateRoute({
+	children,
+	...rest
+}) {
 	let auth = useAuth();
-	return (
-		<Route
-			{...rest}
-			render={({ location }) =>
-				auth.user ? (
-					children
-				) : (
-					<Redirect
-						to={{
-							pathname: "/login",
-							state: { from: location },
-						}}
-					/>
-				)
-			}
+	return ( <
+		Route {
+			...rest
+		}
+		render = {
+			({
+				location
+			}) =>
+			auth.user ? (
+				children
+			) : ( <
+				Redirect to = {
+					{
+						pathname: "/login",
+						state: {
+							from: location,
+						},
+					}
+				}
+				/>
+			)
+		}
 		/>
 	);
 }
 
 function PublicPage() {
-	return <h3>Public</h3>;
+	return <h3 > Public < /h3>;
 }
 
 function ProtectedPage() {
-	return <h3>Protected</h3>;
+	return <h3 > Protected < /h3>;
 }
 
 function LoginPage() {
@@ -148,19 +184,32 @@ function LoginPage() {
 	let location = useLocation();
 	let auth = useAuth();
 
-	let { from } = location.state || { from: { pathname: "/" } };
+	let {
+		from
+	} = location.state || {
+		from: {
+			pathname: "/",
+		},
+	};
 	let login = () => {
 		auth.signin(() => {
 			history.replace(from);
 		});
 	};
 
-	return (
-		<div>
-			<p>You must log in to view the page at {from.pathname}</p>
-			<button className="btn" onClick={login}>
-				Log in
-			</button>
-		</div>
+	return ( <
+		div >
+		<
+		p > You must log in to view the page at {
+			from.pathname
+		} < /p> <
+		button className = "btn"
+		onClick = {
+			login
+		} >
+		Log in
+		<
+		/button> <
+		/div>
 	);
 }

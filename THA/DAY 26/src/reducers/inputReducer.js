@@ -1,4 +1,4 @@
-const inputReducer = (state = ["", ""], action) => {
+const inputReducer = (state = [], action) => {
   if (action.type === "NAME_CHANGE") {
     let tmpSt = state;
     tmpSt[0] = action.payload;

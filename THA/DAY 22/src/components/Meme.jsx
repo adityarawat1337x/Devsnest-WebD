@@ -3,7 +3,7 @@ import { useState } from "react";
 const Meme = ({ meme, setMeme }) => {
     const [form, setForm] = useState({
         tempelate_id: meme.id,
-        username: "ProDoge",
+        username: "",
         password: "$msX-{{6Tx[ja7*m",
         boxes: [],
     });
