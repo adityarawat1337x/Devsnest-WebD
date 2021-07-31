@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/3.6.3/workbox-sw.js");
 
 importScripts(
-  "/adityarawat1337x/FIRST_PWA/precache-manifest.e76e0e5b94805be6f9f8dabbde36ba85.js"
+  "/adityarawat1337x/Devsnest-WebD//THA/DAY%2029/precache-manifest.1f9e5573e47f5e3d1bd63566bf5163af.js"
 );
 
 workbox.clientsClaim();
@@ -28,7 +28,7 @@ self.__precacheManifest = [].concat(self.__precacheManifest || []);
 workbox.precaching.suppressWarnings();
 workbox.precaching.precacheAndRoute(self.__precacheManifest, {});
 
-workbox.routing.registerNavigationRoute("/adityarawat1337x/FIRST_PWA/index.html", {
+workbox.routing.registerNavigationRoute("/adityarawat1337x/Devsnest-WebD//THA/DAY%2029/index.html", {
   
   blacklist: [/^\/_/,/\/[^/]+\.[^/]+$/],
 });
