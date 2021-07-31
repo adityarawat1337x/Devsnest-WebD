@@ -11,6 +11,24 @@
   align-items: center;
 }
 
-.cont > * {
+button {
+  width: 60px;
+  height: 35px;
+  background-color: rgb(32, 173, 255);
+  border: none;
+  border-radius: 10px;
+  color: white;
   margin: 10px;
+}
+
+input {
+  height: 30px;
+  border: 2px rgb(34, 174, 255) solid;
+  border-radius: 10px;
+  margin: 10px;
+}
+
+img {
+  width: 200px;
+  height: 200px;
 }
