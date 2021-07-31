@@ -1,48 +1,48 @@
-import React, { useEffect, useState } from "react";
-import { changeEmail, changeName } from "./actions/inputActions";
-import { useDispatch } from "react-redux";
-import Display from "./components/Display";
+import React from "react";
+import { change_data, change_city, toogle_theme } from "./actions";
+import { useDispatch, useSelector } from "react-redux";
 import "./App.css";
 
 export default function App() {
   const dispatch = useDispatch();
 
-  const [city, setCity] = useState("mumbai");
-  const [data, setData] = useState({});
+  let city = useSelector((state) => state.city);
+  let data = useSelector((state) => state.data);
+  let theme = useSelector((state) => state.theme);
 
-  const getData = async () => {
-    let resp = await fetch(
-      `https://api.weatherapi.com/v1/current.json?key=decd753b07014de186b155610213007&q=${city}&aqi=no`
-    );
-    resp = await resp.json();
-    setData({ ...resp });
-  };
-
-  useEffect(() => {
-    getData();
-  }, []);
-
-  console.log("RErender", { ...data });
   return (
-    <div className="cont">
+    <div className={theme ? "cont" : "cont-dr"}>
+      <button
+        className={theme ? "toogle" : "toogle-dr"}
+        onClick={() => dispatch(toogle_theme)}
+      >
+        {theme ? "Light" : "Dark"}
+      </button>
       <div className="search">
-        <input type="text"></input>
-        <button>Send</button>
+        <input
+          type="text"
+          onChange={(e) => {
+            dispatch(change_city(e.target.value));
+          }}
+        ></input>
+        <button onClick={() => dispatch(change_data(city))}>GET</button>
       </div>
-      <div className="weather">
-        {data.current && (
+      <div className={theme ? "weather" : "weather-br"}>
+        {(data.current && (
           <>
             <div className="icon">
               <img src={data.current.condition.icon} alt="IMAGE" />
-              <span id="temp">{data.current.feelslike_c}</span>
-              <span id="place">{data.location.name}</span>
-              <span id="text">{data.current.condition.text}</span>
+              <div id="temp">{data.current.feelslike_c} *c</div>
+              <div id="text">{data.current.condition.text}</div>
+              <div id="place">{data.location.name}</div>
             </div>
-            <div className="wind">{data.current.wind_mph} mph</div>
-            <div className="humidity">{data.current.humidity}</div>
-            <div className="precipitation">{data.current.precip_mm} mm</div>
+            <div className={theme ? "info" : "info-br"}>
+              <div className="wind">{data.current.wind_mph} mph</div>
+              <div className="humidity">{data.current.humidity}</div>
+              <div className="precipitation">{data.current.precip_mm} mm</div>
+            </div>
           </>
-        )}
+        )) || <div id="temp">N/A</div>}
       </div>
     </div>
   );
