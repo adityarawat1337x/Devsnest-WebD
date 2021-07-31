@@ -1,4 +1,4 @@
-export const cityReducer = (state = "", action) => {
+export const cityReducer = (state = "Roorkee", action) => {
   if (action.type === "change_city") {
     return action.payload;
   }
