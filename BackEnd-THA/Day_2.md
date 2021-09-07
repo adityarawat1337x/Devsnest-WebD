@@ -9,6 +9,7 @@
 - \c <dbname> <username> - connect to a database using username</br></t>
 - \l - list all database</br></t>
 - drop database <dbname> -deletes database</br></t></br></t>
+
 <h3>Create a table</h3>
   create table company(</br></t>
 id int not null,</br></t>
@@ -27,6 +28,8 @@ address text </br></t>
   );</br></t>
 
 - create schema mySchema - create an empty schema</br></t>
+
+<h3></h3>
   create table mySchema.company(</br></t>
   id int not null,</br></t>
   name varchar(20) not null,</br></t>
@@ -48,7 +51,7 @@ address text </br></t>
 - select age from company where age between 25 and 27 = age in (25,27) - range checking </br></t>
 - update <name> set salary = 12000 , age =23 where id=3 - update a row value</br></t>
 - delete from <table> where id = 2 - deletes row with condition</br></t>
-
+<h3></h3>
 create table customers(</br></t>
 cust_id int not null,</br></t>
 cust_name varchar(30) not null,</br></t>
