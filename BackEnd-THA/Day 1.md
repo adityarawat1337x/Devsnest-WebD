@@ -1,6 +1,6 @@
 <h1>Redis</h1>
 
-<p>
+<h3>
 its same as json i.e everything is a key-value pair</br>
 set name "aditya" - make key: name and value: aditya</br>
 get name - display name value</br>
@@ -17,4 +17,4 @@ lrange arr 0-1 - displays keys from index 0 to index -1 i.e last index</br>
 lpop 
 rpush
 rpop
-</p>
+</h3>
