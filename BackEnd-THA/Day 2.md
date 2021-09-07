@@ -51,16 +51,16 @@ primary key(cust_id)</br></t>
 );</br></t>
   
 create table contacts(</br></t>
-  cont_id int not null,</br></t>
-  cust_id int,</br></t>
-  cont_name varchar(30) not null,</br></t>
-  phone varchar(15),</br></t>
-  email varchar(50),</br></t>
-  primary key(cont_id),</br></t>
-  constraint fr_customer</br></t>
-    foreign key(cust_id)</br></t>
-      references customers(cust_id)</br></t>
-        on delete cascade</br></t>
-  );</br></t>
+ - cont_id int not null,</br></t>
+ - cust_id int,</br></t>
+ - cont_name varchar(30) not null,</br></t>
+ - phone varchar(15),</br></t>
+ - email varchar(50),</br></t>
+ - primary key(cont_id),</br></t>
+ - constraint fr_customer</br></t>
+ -   foreign key(cust_id)</br></t>
+  -    references customers(cust_id)</br></t>
+  -      on delete cascade</br></t>
+-  );</br></t>
   - on delete cascade means if in customers table customer id is deleted then it gets deleted from here too</br></t>
 </h4>
