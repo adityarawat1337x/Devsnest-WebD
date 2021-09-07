@@ -3,6 +3,8 @@
 <h4>
 <h3>General</h3>
 <strong>< Its same as json i.e everything is a key-value pair ></strong></br></t>
+<strong>Why?</strong></br></t>
+<strong>The data which we want repetitively we store in redis for faster fetching cuz data resides in RAM</strong></br></t>
 set name "aditya" - make key: name and value: aditya</br></t>
 get name - display name value</br></t>
 del naem -deletes the key-value</br></t>
