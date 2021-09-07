@@ -8,11 +8,12 @@
   - publish <name> <msg> - publish a msg to a channel</br></t>
   - publish <name> <msg> - publish a msg to a channel</br></t>
 <h3>streams</h3>
-  - xadd mystream 1000 or * name <name> - stream with key=1000 or system generated with name as <name>  
-  - xadd mystream maxlen <num> * name <name> - stream with key=1000 or system generated with name as <name>
+  - xadd <streamName> 1000 or * key <value> - stream with key=1000 or system generated with name as <name>  
+  - xadd mystream maxlen <num> * name 'Aditya' - stream with key=1000 or system generated with name as <name>
   - xread count <num of entries> streams mystream id  - shows all num of entries after id  
   - xread block <time in ms> streams  mystream  id - after timeout closes the stream if inactive
   - xread block <time in ms> streams  mystream  $ - works like pub sub but after timeout closes the stream if inactive
   - xrange mystream <start_id> <end_id> count <entries> - shows entries btw the id range
-  - xrange mystream - + count <entries> - shows entries btw 1st and Last 
+  - xrange mystream - + count <entries> - shows entries btw 1st to Last 
+  - xrange mystream + - count <entries> - shows entries btw last to 1st 
   
