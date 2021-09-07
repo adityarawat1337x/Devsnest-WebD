@@ -28,6 +28,8 @@ smembers hobby - shows set members</br>
   hset person name "aditya" - person:{name: aditya}</br>
   hget person name - aditya</br>
   hgetall person - shows all </br>
+  hdel person name - deletes name from person</br>
+  hexists person name - checks if name exists in person</br>
   
   
 </h4>
