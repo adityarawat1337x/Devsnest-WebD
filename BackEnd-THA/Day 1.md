@@ -16,8 +16,8 @@ setex name 10 "aditya" - sets expiry 10 sec</br></h4>
 <h4>
 <h3>Arrays</h3>
 lpush arr 24 - pushes 24 in arr array from left  </br></t>
-lrange arr 0-1 - displays keys from index 0 to index -1 i.e last index</br></t>
-lpop - pops key from left </br></t>
+lrange arr 0-1 - displays keys from index 0 to index -1 i.e last index</br>
+</t>lpop - pops key from left </br></t>
 rpush  arr 24 - pushes 24 in arr array from right  </br></t>
 rpop  - pops key from right </br></t>
 sadd hobby "sky diving" - adds sky diving into a set hobby</br></t>
