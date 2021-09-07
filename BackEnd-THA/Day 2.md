@@ -17,5 +17,6 @@ address text </br></t>
 );</br></t>
 \d - displays tables </br></t>
 \d <tablename> - shows table structure</br></t>
+drop table <tablename> - deletes table</br></t>
 
 </h4>
