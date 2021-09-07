@@ -2,4 +2,4 @@
 
 <p>its same as json i.e everything is a key-value pair
 set name "aditya" - make key: name and value: aditya
-get name - display name value<\p>
+get name - display name value</p>
