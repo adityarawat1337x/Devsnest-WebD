@@ -44,7 +44,6 @@ io.on("connection", (socket) => {
 
 app.get("/chat", (req, res) => {
   const username = req.query.username;
-
   io.emit("joined", username);
   res.render("chat", { username });
 });
