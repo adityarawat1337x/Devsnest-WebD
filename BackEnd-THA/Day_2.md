@@ -44,13 +44,14 @@ address text </br></t>
   insert into company(id,name,age,address,salary,join_date) </br></t>
   values(3,'kamal',21,'Jharkhand',24000,'2-02-2015');</br></t>
 
-- select \* from <tablename> - shows whole table</br></t>
+- select \* from <tableName> - shows whole table</br></t>
 - _All commands are same as SQL_</br></t>
 - 'M_rve%' - M(a-z)rve(anything) ex Marvel or Marvelinasfashfshfies </br></t>
 - select \* from <name> where salary::text like '100%' - converts salary to text and checks for prefix</br></t>
 - select age from company where age between 25 and 27 = age in (25,27) - range checking </br></t>
 - update <name> set salary = 12000 , age =23 where id=3 - update a row value</br></t>
-- delete from <table> where id = 2 - deletes row with condition</br></t>
+- delete from <tableName> where id = 2 - deletes row with condition</br></t>
+
 <h3></h3>
 create table customers(</br></t>
 cust_id int not null,</br></t>
