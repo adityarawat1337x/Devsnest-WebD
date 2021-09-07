@@ -2,7 +2,7 @@
 
 <h4>
 <h3>General</h3>
-  <strong>Its same as json i.e everything is a key-value pair</strong></br>
+<strong>< Its same as json i.e everything is a key-value pair ></strong></br>
 set name "aditya" - make key: name and value: aditya</br>
 get name - display name value</br>
 del naem -deletes the key-value</br>
@@ -30,6 +30,4 @@ smembers hobby - shows set members</br>
   hgetall person - shows all </br>
   hdel person name - deletes name from person</br>
   hexists person name - checks if name exists in person</br>
-  
-  
 </h4>
