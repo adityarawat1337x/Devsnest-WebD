@@ -61,7 +61,7 @@ program.command("append <path> <text>").action((path, text) => {
 
 program.parse(process.argv);
 
-// NORMIE METHOD
+// NOOB METHOD
 // const cmd = process.argv[2];
 // if (cmd === "mkdir") {
 //   fs.mkdir(process.argv[3], (err) => {
