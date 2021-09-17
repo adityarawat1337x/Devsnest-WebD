@@ -6,9 +6,10 @@ const bodyParser = require("body-parser");
 // it should be declared before every route
 //app.use(body-parser)
 // to parse body data into readable format
-
+//deprecated
 app.use(bodyParser.urlencoded({ extended: true }));
 app.use(bodyParser.json());
+//DEPRECATED
 
 const checkAdmin = (req, res, next) => {
   res.status(200);
