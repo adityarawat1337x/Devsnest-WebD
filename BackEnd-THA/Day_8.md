@@ -46,3 +46,5 @@ Conclusion :
     next
     app.use
     bodyparser
+    post calls are used for passwords as it isn't cached and is more secured
+    get calls are cached
