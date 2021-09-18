@@ -5,7 +5,7 @@ const app = require("express")();
 // it should be declared before every route
 //app.use(body-parser)
 // to parse body data into readable format
-// its deprecated so we use express instead
+// its deprecated so we use express instead of BodyParser
 app.use(express.urlencoded({ extended: true }));
 app.use(express.json());
 
