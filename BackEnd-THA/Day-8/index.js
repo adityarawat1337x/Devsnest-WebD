@@ -1,15 +1,13 @@
 const app = require("express")();
-const bodyParser = require("body-parser");
 
 //app.use(checkAdmin)
 // app.use() applies middleware to every route
 // it should be declared before every route
 //app.use(body-parser)
 // to parse body data into readable format
-//deprecated
-app.use(bodyParser.urlencoded({ extended: true }));
-app.use(bodyParser.json());
-//DEPRECATED
+// its deprecated so we use express instead
+app.use(express.urlencoded({ extended: true }));
+app.use(express.json());
 
 const checkAdmin = (req, res, next) => {
   res.status(200);
