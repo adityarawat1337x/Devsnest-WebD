@@ -37,3 +37,11 @@
 - nvm use v12
 
 - nvm ls
+
+### forever
+
+- forever list
+
+- forever stopall
+
+- forever start \<scriptname\>
