@@ -1,38 +1,26 @@
-/**
- * check if email already exists
- * hash password
- * email lowercase
- * save in db
- */
+const User = require("../models/user");
+const bcrypt = require("bcrypt");
 
-const prisma = require("../prisma/prismaClient");
-var bcrypt = require("bcryptjs");
-const e = require("express");
-
-const register = async (req, res, next) => {
+const register = async (req, res) => {
+  const { email, password, fullName } = req.body;
   try {
-    const { name, email, password, confirmPassword } = req.body;
-    const user = await prisma.user.findFirst({
-      where: {
-        email: email.toLowerCase(),
-      },
-    });
-
-    if (user) res.status(401).send("email already exists");
-    else {
-      const salt = await bcrypt.genSalt(10);
-      const bcryptPassword = await bcrypt.hash(password, salt);
-      const newUser = await prisma.user.create({
-        data: {
-          fullname: name,
-          email: email.toLowerCase(),
-          password: bcryptPassword,
-        },
-      });
-      res.json(newUser);
+    const alreadyEmail = await User.findOne({ where: { email } });
+    if (alreadyEmail) {
+      res.status(401).send("Email already exists");
     }
-  } catch (error) {
-    next(error);
+    let saltRounds = 10;
+    const salt = bcrypt.genSaltSync(saltRounds);
+    const hash = bcrypt.hashSync(password, salt);
+    const newUser = new User({
+      email: email.toLowerCase(),
+      password: hash,
+      fullName: fullName,
+    });
+    const savedUser = await newUser.save();
+    return res.status(201).send({ "User Registered": savedUser });
+  } catch (err) {
+    console.error(err);
+    return res.status(500).send("User Registeration failed");
   }
 };
 
