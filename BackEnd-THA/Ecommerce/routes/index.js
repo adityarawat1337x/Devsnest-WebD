@@ -11,6 +11,13 @@ const {
 router.get("/", function (req, res, next) {
   res.render("index", { title: "Express" });
 });
+
+router.get("/redis", function (req, res, next) {
+  const sess = req.session;
+  sess.username = "Aditya";
+  console.log(req.session.username);
+});
+
 router.post("/register", registerCheckslvl1, register);
 
 module.exports = router;

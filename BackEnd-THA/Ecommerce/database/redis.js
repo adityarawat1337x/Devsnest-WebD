@@ -1,26 +1,23 @@
 const redis = require("redis");
-
 const connectRedis = require("connect-redis");
-
 const session = require("express-session");
 
 const RedisStore = connectRedis(session);
-
-const redisClient = redis.createClient({
+const RedisClient = redis.createClient({
   host: "localhost",
   port: 6379,
 });
 
-redisClient.on("error", (err) => {
-  console.error("could not connect to redis ", err);
+RedisClient.on("error", (err) => {
+  console.error(err);
 });
 
-redisClient.on("connect", () => {
-  console.log("connected to redis");
+RedisClient.on("connect", () => {
+  console.log("Redis Connected");
 });
 
 module.exports = {
-  redisClient,
+  RedisClient,
   RedisStore,
   session,
 };

@@ -1,10 +1,15 @@
 const User = require("../models/user");
+// const User = require("../models/mongo");
 const bcrypt = require("bcrypt");
 
 const register = async (req, res) => {
   const { email, password, fullName } = req.body;
   try {
+    //for psql
     const alreadyEmail = await User.findOne({ where: { email } });
+    //for mongo
+    // const alreadyEmail = await User.findOne({ where: { email } }).exec();
+
     if (alreadyEmail) {
       res.status(401).send("Email already exists");
     }
