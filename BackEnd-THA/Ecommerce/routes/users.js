@@ -1,13 +1,20 @@
 var express = require("express");
 var router = express.Router();
 const Pool = require("pg").Pool;
+const {
+  SQ_HOST,
+  SQ_PORT,
+  SQ_USER,
+  SQ_DATABASE,
+  SQ_PASSWORD,
+} = require("../config");
 
 const pool = new Pool({
-  user: "napster",
-  database: "devs",
-  host: "localhost",
-  password: "asdw",
-  port: 5432,
+  user: SQ_USER,
+  database: SQ_DATABASE,
+  host: SQ_HOST,
+  password: SQ_PASSWORD,
+  port: SQ_PORT,
 });
 
 /* GET users listing. */

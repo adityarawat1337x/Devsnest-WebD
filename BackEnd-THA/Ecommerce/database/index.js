@@ -1,12 +1,19 @@
 const { Sequelize } = require("sequelize");
+const {
+  SQ_HOST,
+  SQ_DIALECT,
+  SQ_USER,
+  SQ_DATABASE,
+  SQ_PASSWORD,
+} = require("../config");
 
 const sequelize = new Sequelize(
-  "devs", //db name
-  "napster", //user name
-  "asdw", //passsword
+  SQ_DATABASE, //db name
+  SQ_USER, //user name
+  SQ_PASSWORD, //passsword
   {
-    host: "localhost",
-    dialect: "postgres",
+    host: SQ_HOST,
+    dialect: SQ_DIALECT,
   }
 );
 
