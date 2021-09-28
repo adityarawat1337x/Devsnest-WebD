@@ -6,8 +6,8 @@ var logger = require("morgan");
 var indexRouter = require("./routes/index");
 var usersRouter = require("./routes/users");
 const { RedisClient, RedisStore, session } = require("./database/redis");
+const passport = require("passport");
 require("./database/mongo");
-
 var app = express();
 
 // view engine setup
@@ -33,8 +33,12 @@ app.use(
     },
   })
 );
+
+app.use(passport.initialize());
+require("./middlewares/passport")(passport);
 app.use("/", indexRouter);
 app.use("/users", usersRouter);
+app.use("/passport", require("./routes/passport"));
 
 // catch 404 and forward to error handler
 app.use(function (req, res, next) {
