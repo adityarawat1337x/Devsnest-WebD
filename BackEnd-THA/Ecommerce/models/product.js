@@ -1,30 +1,31 @@
-const { Schema, model } = require("mongoose");
+const { DataTypes } = require("sequelize");
+const sequelize = require("../database");
 
-const UserSchema = new Schema(
-  {
-    name: {
-      type: String,
-      required: true,
-    },
-    email: {
-      type: String,
-      required: true,
-    },
-    role: {
-      type: String,
-      default: "user",
-      enum: ["user", "admin", "superadmin"],
-    },
-    username: {
-      type: String,
-      required: true,
-    },
-    password: {
-      type: String,
-      required: true,
-    },
+module.exports = sequelize.define("products", {
+  // product id
+  id: {
+    type: DataTypes.BIGINT,
+    allowNull: false,
+    primaryKey: true,
+    autoIncrement: true,
   },
-  { timestamps: true }
-);
-
-module.exports = model("users", UserSchema);
+  title: {
+    type: DataTypes.STRING,
+    allowNull: false,
+  },
+  price: {
+    type: DataTypes.INTEGER,
+    allowNull: false,
+  },
+  // no of products left
+  count: {
+    type: DataTypes.INTEGER,
+    allowNull: false,
+  },
+  description: {
+    type: DataTypes.TEXT,
+  },
+  image: {
+    type: DataTypes.STRING,
+  },
+});

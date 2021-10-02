@@ -19,10 +19,14 @@ const pool = new Pool({
 
 /* GET users listing. */
 router.get("/", function (req, res, next) {
-  pool.query('select * from "Users"', (err, resp) => {
-    if (err) console.log(err);
-    else res.status(200).json(resp);
-  });
+  pool.query(
+    'select * from "Users" where id=$1',
+    [req.query.id],
+    (err, resp) => {
+      if (err) console.log(err);
+      else res.status(200).json(resp);
+    }
+  );
   // res.send("respond with a resource");
 });
 
